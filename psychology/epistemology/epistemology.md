@@ -14,6 +14,10 @@ url: https://en.wikipedia.org/wiki/Critical_rationalism
 
 This is applied to scientific hypotheses, where [natural science](https://en.wikipedia.org/wiki/Natural_science) provides the entry point.
 
+The important contribution from [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) is his [falsifiability criterion](https://en.wikipedia.org/wiki/Falsifiability), which limits the set of scientific hypotheses that are considered useful for explaining our objective reality.
+
+Please refer to my subjective epistemology for hypotheses that do not satisfy Karl's criterion.
+
 ## Subjective Epistemology
 
 Deals with the experiences of [vegahen](/experiences/people/-.md).
