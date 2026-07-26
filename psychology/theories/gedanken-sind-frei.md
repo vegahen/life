@@ -11,7 +11,7 @@ This is the most important song ever written; without it, the [epistemologists](
 
 ## Versions
 
-### [Gutta på skauen](../../media/tv-series/gutta-pa-skauen.md)
+### [Gutta på skauen](/media/tv-series/gutta-pa-skauen.md)
 
 ```yaml
 type: reference
