@@ -5,7 +5,9 @@ type: source
 url: https://en.wikipedia.org/wiki/Die_Gedanken_sind_frei
 ```
 
-> `SSH`: ...
+> `SSH`: Thoughts are free
+
+This is the most important song ever written; without it, the [epistemologists](/psychology/epistemology/epistemology.md) would still have us confined in the darkest dungeon.
 
 ## Versions
 
