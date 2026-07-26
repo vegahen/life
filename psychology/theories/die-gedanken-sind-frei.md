@@ -24,7 +24,7 @@ Wer kann sie erraten?
 Sie fliegen vorbei  
 wie nächtliche Schatten.  
 Kein Mensch kann sie wissen,  
-kein Jäger erschiessen  
+kein Jäger erschießen  
 mit Pulver und Blei.  
 Die Gedanken sind frei.
 
@@ -33,7 +33,7 @@ und was mich beglücket.
 Doch alles in der Still',  
 und wie es sich schicket.  
 Mein Wunsch und Begehren  
-kann niemand mir wehren,  
+kann niemand verwehren,  
 es bleibet dabei:  
 Die Gedanken sind frei.
 
@@ -42,6 +42,6 @@ im finsteren Kerker,
 das alles sind rein  
 vergebliche Werke.  
 Denn meine Gedanken  
-zerreissen die Schranken  
+zerreißen die Schranken  
 und Mauern entzwei.  
 Die Gedanken sind frei!
