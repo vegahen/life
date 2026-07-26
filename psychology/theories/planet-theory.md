@@ -1,3 +1,3 @@
 # Planet Theory
 
-> `SSH`: ...
+> `SSH`: Everyone lives on a different planet
