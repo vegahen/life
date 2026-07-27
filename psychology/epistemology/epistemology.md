@@ -18,6 +18,8 @@ The important contribution from [Karl Popper](https://en.wikipedia.org/wiki/Karl
 
 Please refer to my subjective epistemology for hypotheses that do not satisfy Karl's criterion.
 
+Make sure to use your own subjective epistemology whenever a scientific hypothesis just doesn't make any sense.
+
 ## Subjective Epistemology
 
 Deals with the experiences of [vegahen](/experiences/people/-.md).
