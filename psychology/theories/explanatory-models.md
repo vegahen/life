@@ -9,6 +9,7 @@
 | Feeling                                              | Empathy Response | Illusion                                                           |
 | ---------------------------------------------------- | ---------------- | ------------------------------------------------------------------ |
 | [Happiness](https://en.wikipedia.org/wiki/Happiness) | Adapt            | [Understanding](/psychology/theories/illusion-of-understanding.md) |
+| [Disbelief](https://en.wikipedia.org/wiki/Doubt)     | Reject           | [Trauma](/psychology/theories/illusion-of-trauma.md)               |
 
 ### [Trauma](https://en.wikipedia.org/wiki/Psychological_trauma)
 
