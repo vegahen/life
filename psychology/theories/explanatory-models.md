@@ -20,12 +20,12 @@
 | [Anger](https://en.wikipedia.org/wiki/Anger) / [Blame](https://en.wikipedia.org/wiki/Blame) | Flight          | [Evil](/psychology/theories/illusion-of-evil.md) / [Guilt](/psychology/theories/illusion-of-guilt.md) |
 | [Anger](https://en.wikipedia.org/wiki/Anger) / [Blame](https://en.wikipedia.org/wiki/Blame) | Fight           | [Evil](/psychology/theories/illusion-of-evil.md) / [Guilt](/psychology/theories/illusion-of-guilt.md) |
 
-## Comparing
+## Relativity Theories
 
 ### [Die Gedanken sind frei](/psychology/theories/gedanken-sind-frei.md)
 
-### [Planet theory](/psychology/theories/planet-theory.md)
+### [Planet Theory](/psychology/theories/planet-theory.md)
 
-### [The special theory of relativity](/psychology/theories/special-theory-of-relativity.md)
+### [The Special Theory of Relativity](/psychology/theories/special-theory-of-relativity.md)
 
-### [The general theory of relativity](/psychology/theories/general-theory-of-relativity.md)
+### [The General Theory of Relativity](/psychology/theories/general-theory-of-relativity.md)
