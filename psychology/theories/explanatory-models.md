@@ -29,3 +29,17 @@
 ### [The Special Theory of Relativity](/psychology/theories/special-theory-of-relativity.md)
 
 ### [The General Theory of Relativity](/psychology/theories/general-theory-of-relativity.md)
+
+## Results
+
+When you are done creating your own explanatory model of the world, you no longer need to think so much. Your brain is now a decision making machine that spits out answers instantly based on your own interpretation of common sense. It is quite preferable compared with being a neurotic subjective scientist who can never make up their mind about anything because their hypotheses are not falsifiable.
+
+## Discussion
+
+Explaining why people are guided toward this or that explanatory model is an important question that we should seek to answer. Making sure that people are not guided toward explanatory models with selective empathy is an important problem that we should seek to solve.
+
+In my experience, having a coherent explanatory model frees me from cognitive dissonance, which tends to make me happy. And having an explanatory model free from selective empathy tends to not make me want to kill people, which also makes me happy.
+
+## Conclusion
+
+It is also quite pleasurable.
