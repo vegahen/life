@@ -1,6 +1,6 @@
 # Epistemology
 
-Unfortunately, epistemology is an unsolved problem that epistemologists like to fiercely disagree on.
+Unfortunately, [epistemology](https://en.wikipedia.org/wiki/Epistemology) is an unsolved problem that epistemologists like to fiercely disagree on.
 
 Fortunately, most epistemologists will happily admit that epistemology is an unsolved problem. And happily, should we wish to use our brains to think, we only need to make a couple of choices first. I will allow that, because [die Gedanken sind frei](/psychology/theories/gedanken-sind-frei.md).
 
@@ -8,7 +8,7 @@ These are my choices.
 
 ## Objective Epistemology
 
-Deals with the universe outside of personal experiences.
+Deals with the [universe](/media/tv-mini-series/cosmos.md) outside of personal experiences.
 
 ```yaml
 type: epistemology
