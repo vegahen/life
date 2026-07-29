@@ -40,7 +40,7 @@ url: https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature
 
 This is applied to subjective scientific hypotheses, where [explanatory models](/psychology/theories/explanatory-models.md) provide the entry point.
 
-I picked [David Hume](https://en.wikipedia.org/wiki/David_Hume) because whenever I try to reason with people, they tend to treat me like I'm some kind of obnoxious asshole. Whenever I'm passionate, however, they tend to empathize me back.
+I picked [David Hume](https://en.wikipedia.org/wiki/David_Hume) because whenever I try to reason with people, they tend to treat me like I'm some kind of obnoxious asshole. Whenever I'm passionate, however, they tend to empathize with me.
 
 ### My Cognitive Dissonance Hypotheses
 
