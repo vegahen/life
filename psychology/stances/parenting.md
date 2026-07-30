@@ -5,6 +5,6 @@ type: source
 url: https://en.wikipedia.org/wiki/Parenting
 ```
 
-Alois experienced a traumatic childhood, so he became a rational person.
+I think Alois experienced a traumatic childhood, and it made him a rational person instead of a passionate one.
 
 Perhaps being labeled illegitimate was challenging.
