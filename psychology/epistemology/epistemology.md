@@ -12,9 +12,9 @@ Deals with the [universe](/media/tv-mini-series/cosmos.md) outside of personal e
 
 ```yaml
 type: epistemology
-name: objective-epistemology
-epistemology: empiricism
-kind: critical-rationalism
+id: objective-epistemology
+name: critical-rationalism
+kind: empiricism
 url: https://en.wikipedia.org/wiki/Critical_rationalism
 ```
 
@@ -32,9 +32,9 @@ Deals with the experiences of [vegahen](/experiences/people/-.md).
 
 ```yaml
 type: epistemology
-name: subjective-epistemology
-epistemology: empiricism
-kind: david-hume
+id: subjective-epistemology
+name: david-hume
+kind: empiricism
 url: https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature
 ```
 
