@@ -28,7 +28,7 @@ Make sure to use your own subjective epistemology whenever a scientific hypothes
 
 ## Subjective Epistemology
 
-Deals with the experiences of [vegahen](/experiences/people/-.md).
+Deals with the experiences of [vegahen](/experiences/people/-/-.md).
 
 ```yaml
 type: epistemology
