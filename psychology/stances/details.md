@@ -10,4 +10,4 @@ I no longer care about details, you should look them up on [Wikipedia](https://e
 
 But feel free to ask me just in case, because you might just end up breaking my model. And always feel free to ask your friends, because they might just love talking about those details, and wasting time with friends is never a waste of time. They might even lend you a good book.
 
-Most importantly, if selective empathy is part of your explanatory model, I urge you to gather more details. Inviting your enemies to dinner is a good start.
+Most importantly, if [selective empathy](/psychology/lies/selective-empathy.md) is part of your explanatory model, I urge you to gather more details. Inviting your enemies to dinner is a good start.

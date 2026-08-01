@@ -1,0 +1,8 @@
+# Late-Stage Capitalism
+
+```yaml
+type: source
+url: https://en.wikipedia.org/wiki/Late_capitalism
+```
+
+Luckily, democracy was invented before late-stage capitalism; voting with your money bypasses the need for a violent revolution.

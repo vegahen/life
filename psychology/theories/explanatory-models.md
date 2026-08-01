@@ -36,7 +36,7 @@ When you are done creating your own explanatory model of the world, you no longe
 
 ## Discussion
 
-Explaining why people are guided toward this or that explanatory model is an important question that we should seek to answer. Making sure that people are not guided toward explanatory models with selective empathy is an important problem that we should seek to solve.
+Explaining why people are guided toward this or that explanatory model is an important question that we should seek to answer. Making sure that people are not guided toward explanatory models with [selective empathy](/psychology/lies/selective-empathy.md) is an important problem that we should seek to solve.
 
 In my experience, having a coherent explanatory model frees me from cognitive dissonance, which tends to make me happy. And having an explanatory model free from selective empathy tends to not make me want to kill people, which also makes me happy.
 

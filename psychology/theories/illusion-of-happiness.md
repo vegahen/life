@@ -10,3 +10,9 @@ url:
 > `SSH`: ...
 
 Numbness is called the illusion of happiness because [Don Draper](/media/tv-series/mad-men.md) is a pretty clever guy.
+
+## Versions
+
+### [Happiness](/media/shorts/happiness.md)
+
+Perhaps we should all become psychologists when our jobs are replaced by AI, so that we can rid ourselves of all this emotional trauma?
