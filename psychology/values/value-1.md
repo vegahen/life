@@ -8,5 +8,6 @@ kind: core-value
 url:
 - https://en.wikipedia.org/wiki/Human
 - https://en.wikipedia.org/wiki/Intrinsic_value_(ethics)
-statement: Human life has intrinsic value
 ```
+
+> `SSH`: Human life has intrinsic value

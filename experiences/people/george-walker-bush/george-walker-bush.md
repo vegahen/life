@@ -9,7 +9,7 @@ url:
 
 I like George, because when it comes to words, he understood that you can only [set boundaries for yourself](/psychology/stances/boundaries.md).
 
-If someone tries to tell you that you are using words wrong, they are lying. You used the words the way your brain wanted to use them, to communicate the thoughts inside your head. If they want to give you feedback on how you used those words, to help you have an easier time communicating with other people in the future, they are kind. If they don't [act like an asshole](/psychology/theories/illusion-of-trauma.md) when they provide that feedback, you are more likely to perceive them as empathic.
+If someone tries to tell you that you are using words wrong, they are lying. You used the words the way your brain wanted to use them, to communicate the thoughts inside your head. If they want to give you feedback on how you used those words, to help you have an easier time communicating with other people in the future, they are kind. If they don't act like an asshole when they provide that feedback, you are more likely to perceive them as empathic.
 
 George was some kind of pioneer or wordsmith, however. Sometimes he required no feedback at all, because he knew he was using words correctly even when those words didn't exist.
 
@@ -21,4 +21,4 @@ If people don't perceive the feedback they receive on their use of words as empa
 
 > `SSH`: My voice does not deserve to be heard
 
-instead.
+instead. That would be delusional.
