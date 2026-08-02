@@ -75,3 +75,5 @@ An election slogan explicitly designed to weaponize maternal anxiety and fear of
 * **Pun/Subversion Ideas:**
    * *“Scrollen! Schaut auf eure Kinder!”* (Scrolling! Look at your children—they are doing it too!).
    * *“Parents! Look at your screens! Vote to log off.”*
+
+[[7](https://www.bbc.com/news/articles/cjel1wlq7vdo)]
