@@ -21,4 +21,4 @@ If people don't perceive the feedback they receive on their use of words as empa
 
 > `SSH`: My voice does not deserve to be heard
 
-instead. That would be delusional.
+instead. That would be [delusional](/psychology/theories/illusion-of-trauma.md).
