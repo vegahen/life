@@ -35,7 +35,7 @@ Let me just quote my father, he said this half an hour ago when commenting to my
 
 > Det er som mus som springer imellom bjelkelaget i taket
 
-> `en_us`: It sounds like [mice](/media/shorts/happiness.md) running between the joist in the ceiling
+> `en_us`: It sounds like [mice](/media/shorts/happiness.md) running between the joists in the ceiling
 
 Ironic, I was hoping the mice would stop running soon.
 
@@ -67,13 +67,13 @@ Unsure how you can meaningfully contribute to the oligarchy? We can help!
 
 > Ein Biest, ein Bot, eine Schönheit
 
-**[Edit your favorite photos](/services/personal/-/openai/propaganda/edit-your-favorite-photos.pdf)**
+**[Edit your favorite photos](/services/personal/-/openai/propaganda/edit-your-favorite-photos2.pdf)**
 
 When your friend actually understands [texting](/psychology/tasks/texting.md).
 
-**[Edit your favorite photos](/services/personal/-/openai/propaganda/edit-your-favorite-photos.pdf)**
+**[Edit your favorite photos](/services/personal/-/openai/propaganda/edit-your-favorite-photos3.pdf)**
 
-Never mind, they should have been able to read my signals by now. Too bad machines don't understand tasks.
+Never mind, they should have been able to read my signals by now - I left you on read for a reason. Too bad machines don't understand tasks.
 
 ## Conclusion
 
