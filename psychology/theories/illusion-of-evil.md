@@ -9,6 +9,10 @@ url: https://en.wikipedia.org/wiki/Evil
 
 ## Versions
 
+### [The Dog That Bites](/psychology/stances/doing-whatever-you-want.md)
+
+Please stop [blaming](/psychology/theories/illusion-of-guilt.md) yourself when you bite.
+
 ### [Mad Men](/media/tv-series/mad-men.md)
 
 A show about an evil man who uses [scientific evidence](https://en.wikipedia.org/wiki/Tobacco_industry_playbook) to give people lung cancer.
