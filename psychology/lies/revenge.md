@@ -13,6 +13,8 @@ episode: 5
 timestamp: 00:49:44
 ```
 
+[YouTube Mirror: DOCS HISTORY](https://youtu.be/y8IXBjEf_rg?list=PLB_1iW8z6jShaqh05WGRhGPXRDxqq9Z6_&t=2984)
+
 Even though there are plenty of examples, I found that I really only needed to ask the world's most famous democratically elected politician why their country used to be in such a bad state. I'm sure he would list some reasons many of us would not be able to understand. But there is one reason he should mention that I think could have changed the course of human history.
 
 I think Philander understood what such a poor state was going to entail for that politician's people. But even though his words are chilling in hindsight, I do not think he could even begin to fathom the cruelty that would ensue. I hope that humanity will never again have to experience how desperately a country traumatized into paranoid delusions can fight to solve the unjust problems seeded by man's need for revenge.
