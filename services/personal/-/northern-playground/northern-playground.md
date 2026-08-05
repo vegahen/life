@@ -11,13 +11,15 @@ When was the last time you went into an [H&M](https://en.wikipedia.org/wiki/H&M)
 
 That is my experience with these amazing people. Jo is a busy guy though, but we have quite similar worldviews. I think we were able to cover it all in about ten minutes. At least enough that I decided to put all the money I could find at the time into his company.
 
-I'm pretty starstruck by this guy, can you believe that [Mark Zuckerberg](https://www.northernplayground.no/en/activism/its-over-mark-en) himself has received mail from him?
+I'm pretty starstruck by this guy, can you believe that [Mark](https://en.wikipedia.org/wiki/Mark_Zuckerberg) himself has [received mail](/psychology/tasks/friendship.md) from him?
+
+Their clothes are not perfect yet, but they are as close as money can get me these days. So I vote for them with my money.
 
 ## Products
 
 Their clothes look expensive at first, but that's because H&M produces shitty products in such large quantities that they can dump prices.
 
-I think these clothes will become cheaper when more people buy them, and natural selection will fix that.
+I think these clothes will become cheaper when more people buy them, and [natural selection](/psychology/stances/natural-selection.md) will fix that.
 
 And they are built to last and be repaired, so I suspect the price per wear is actually lower than many other clothes you can find.
 
@@ -25,11 +27,13 @@ These are the clothes I either own already or want to own.
 
 **Very Close to Natural**
 
-I gave one of these shirts to a horse, and it was approved as one hundred percent natural. I believe the only unnatural thing about them are the chemicals used to process the materials.
+I gave one of these shirts to some horses once, and it was unanimously approved as one hundred percent natural. They didn't like the taste, though.
 
 These buttons are nuts!
 
-We need to do more research into how we can create clothes without using so many chemicals, though.
+I believe the only unnatural thing about these shirts might be the chemicals used to process the materials, so we need to do more research into how we can create clothes without using so many chemicals.
+
+Still, these are the best shirts I have ever seen!
 
 ### [The Canvas Shirt](https://www.northernplayground.no/en/shop/the-canvas-shirt?fit=women)
 
@@ -55,9 +59,11 @@ This shirt has been dyed with natural minerals, they told me.
 
 **Pretty Close to Natural**
 
-These are great clothes because the cloth they use is made from cotton instead of [toxic forever chemicals](https://en.wikipedia.org/wiki/PFAS). There are plastic details here and there, though, but I think the only way I could source better clothes today would be from my grandparents' closet.
+These are great clothes because the shell fabric they use is cotton instead of [toxic forever chemicals](https://en.wikipedia.org/wiki/PFAS). There are plastic details here and there, though, but I think the only way I could source better clothes today would be from my grandparents' closet.
 
-We need to replace all the plastic details with stuff made from natural materials. I think there is some plastic around the zippers, maybe those should just be metal? And then we need to research how we can create clothes without using so many chemicals.
+We could replace all the plastic details with stuff made from natural materials. I think there is some plastic around the zippers, maybe those could just be metal? And then we need to research how we can create clothes without using so many chemicals.
+
+Still, these are the best outdoor clothes I have ever seen!
 
 ### [The Last Jacket](https://www.northernplayground.no/en/shop/the-last-jacket?fit=women&color=C752329)
 
