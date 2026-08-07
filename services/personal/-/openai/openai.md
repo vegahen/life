@@ -19,7 +19,7 @@ As I was researching my book, I was actually so lucky that some leaked emails we
 
 **[A faster way to shop](/services/personal/-/openai/propaganda/faster-way-to-shop.pdf)**
 
-Pay OpenAI only `$1` per shitty product you sell, and with our premium advertisement model we will thought-inject your product directly into the consumer's house. No need to worry about competitors! By the way, breaking news, we decided to raise our prices; it is now `treefiddy` lol.
+Pay OpenAI only `$1` per shitty product you sell, and with our premium advertisement model we will thought-inject it directly into the consumer's house. No need to worry about competitors! We decided to raise our prices, by the way. It is now `$3.50`.
 
 **[Easy self-care you can start today](/services/personal/-/openai/propaganda/easy-self-care-you-can-start-today.pdf)**
 
