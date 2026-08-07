@@ -5,7 +5,7 @@ type: source
 url: https://en.wikipedia.org/wiki/Evil
 ```
 
-> `SSH`: ...
+> `SSH`: Sometimes we believe that someone is evil when we really just don't understand them
 
 ## Versions
 
@@ -27,3 +27,7 @@ episode: 3
 ```
 
 An episode about an evil man who likes to perform strange dances.
+
+### [The Green Mile](https://www.imdb.com/title/tt0120689)
+
+A movie where an evil black man gets punched in the face before the boys kill him twice; it hurts like hell.

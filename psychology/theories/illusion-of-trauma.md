@@ -1,6 +1,6 @@
 # The Illusion of Trauma
 
-> `SSH`: ...
+> `SSH`: Sometimes we believe that someone is hurting us when they really just wanted to help
 
 ## Versions
 
