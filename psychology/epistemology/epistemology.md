@@ -47,14 +47,26 @@ This is applied to subjective scientific hypotheses, where [explanatory models](
 
 I picked [David Hume](https://en.wikipedia.org/wiki/David_Hume) because whenever I try to reason with people, they tend to treat me like I'm some kind of obnoxious asshole. Whenever I'm passionate, however, they tend to empathize with me.
 
-### My Cognitive Dissonance Hypotheses
+### My Coherence Hypothesis
 
 Since we do not have falsifiability, we need to use a different approach to test our hypotheses. While it is impossible to disprove a [subjective experience](https://en.wikipedia.org/wiki/Subjective_character_of_experience) in someone else, we are able to subjectively experience [cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance).
 
 > `SSH`: If you experience less signs of cognitive dissonance, it indicates that your explanatory model is closer to being coherent
+
+### My Disuniqueness Hypothesis
 
 In my experience, it seems like critical rationalism applied to objective reality using the [scientific method](https://en.wikipedia.org/wiki/Scientific_method) has a tendency to make people agree with each other. The immeasurable capacity for human disagreement when it comes to things like ethics, emotions, politics, spirituality, and epistemology, however, leads me to believe that
 
 > `SSH`: Cognitive dissonance is not guaranteed to guide people toward the same explanatory model
 
 The effects of this hypothesis can be described using the [relativity theories](/psychology/theories/explanatory-models.md#relativity-theories).
+
+### My Natural Selection Hypothesis
+
+Since it is impossible to establish scientific truth when dealing with philosophical questions, we take inspiration from Karl and instead ask ourselves whether believing something is useful.
+
+> `SSH`: If an idea has the potential to effectively spread using natural selection, it is widely considered ethical
+
+This lets us test the explanatory models up against eachother, solving the disuniqueness problem.
+
+We should [do our best](/psychology/lies/revenge.md) to [ensure](/psychology/lies/selective-empathy.md) that the most ethical ideas survive natural selection.
