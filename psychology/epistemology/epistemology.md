@@ -63,10 +63,10 @@ The effects of this hypothesis can be described using the [relativity theories](
 
 ### My Natural Selection Hypothesis
 
-Since it is impossible to establish scientific truth when dealing with philosophical questions, we take inspiration from Karl and instead ask ourselves whether believing something is useful.
+Since it is impossible to establish scientific truth when dealing with philosophical questions, we take inspiration from Karl and ask ourselves instead whether believing in something is useful.
 
 > `SSH`: If an idea has the potential to effectively spread using natural selection, it is widely considered ethical
 
-This lets us test the explanatory models up against eachother, solving the disuniqueness problem.
+This lets us test the explanatory models up against each other, solving the [disuniqueness problem](https://en.wikipedia.org/wiki/Democracy). [Freedom](/people/george-walker-bush/george-walker-bush.md) of [speech](/psychology/stances/great-ideas.md) is the only requirement. And unless you live in the Unites States of America, money is not speech - communication that is not free and open-source is corruption.
 
 We should [do our best](/psychology/lies/revenge.md) to [ensure](/psychology/lies/selective-empathy.md) that the most ethical ideas survive natural selection.
