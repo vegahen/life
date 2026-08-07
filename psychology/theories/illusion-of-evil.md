@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Evil
+urls: https://en.wikipedia.org/wiki/Evil
 ```
 
 > `SSH`: Sometimes we believe that someone is evil when we really just don't understand them
@@ -21,7 +21,7 @@ A show about an evil man who uses [scientific evidence](https://en.wikipedia.org
 
 ```yaml
 type: reference
-url: https://www.imdb.com/title/tt16385928
+urls: https://www.imdb.com/title/tt16385928
 season: 1
 episode: 3
 ```

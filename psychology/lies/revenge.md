@@ -8,7 +8,7 @@ That revenge is a good idea has been disproved so many times that I don't even w
 
 ```yaml
 type: reference
-url: https://www.imdb.com/title/tt3638584
+urls: https://www.imdb.com/title/tt3638584
 episode: 5
 timestamp: 00:49:44
 ```

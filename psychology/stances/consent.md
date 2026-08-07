@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Consent
+urls: https://en.wikipedia.org/wiki/Consent
 ```
 
 I'm a big fan of [YouTube](https://www.youtube.com), because their [ads](/psychology/stances/ads.md) are based on consent.

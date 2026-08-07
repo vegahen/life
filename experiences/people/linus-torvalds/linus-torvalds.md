@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url:
+urls:
 - https://en.wikipedia.org/wiki/Linus_Torvalds
 - https://en.wiktionary.org/wiki/rich
 ```

@@ -2,9 +2,9 @@
 
 ```yaml
 - type: identifier
-  url: https://www.imdb.com/title/tt13192836
+  urls: https://www.imdb.com/title/tt13192836
 - type: source
-  url: https://tv.nrk.no/serie/uxa-thomas-seltzers-amerika
+  urls: https://tv.nrk.no/serie/uxa-thomas-seltzers-amerika
 ```
 
 I support The Donald because I would also like to make America great again for the people I learned about through Thomas' show. [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome) is a great example of how the Ministry of Truth tries to manipulate the masses into believing that the unjust hate Donald receives is deserved.
@@ -17,7 +17,7 @@ Once you are in their country, find someone you can invite to dinner and start s
 
 ```yaml
 type: reference
-url: https://www.imdb.com/title/tt3638584
+urls: https://www.imdb.com/title/tt3638584
 episode: 5
 timestamp: 8:39
 ```

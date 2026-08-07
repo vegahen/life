@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Python_(programming_language)
+urls: https://en.wikipedia.org/wiki/Python_(programming_language)
 ```
 
 ...

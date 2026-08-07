@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Capitalism
+urls: https://en.wikipedia.org/wiki/Capitalism
 ```
 
 Capitalism is when you can make money on great ideas.

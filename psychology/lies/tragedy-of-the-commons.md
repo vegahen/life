@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Tragedy_of_the_commons
+urls: https://en.wikipedia.org/wiki/Tragedy_of_the_commons
 ```
 
 > `SSH`: It is a good idea to not cooperate because other people are not cooperating

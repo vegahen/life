@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wiktionary.org/wiki/pick_your_poison
+urls: https://en.wiktionary.org/wiki/pick_your_poison
 ```
 
 When I started working in `2022`, I made a Snapchat account so that I could keep up with my colleagues in our Snapchat group. That only lasted a couple of weeks.

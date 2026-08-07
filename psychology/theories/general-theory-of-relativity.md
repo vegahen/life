@@ -2,7 +2,7 @@
 
 ```yaml
 type: inspiration
-url: https://en.wikipedia.org/wiki/General_relativity
+urls: https://en.wikipedia.org/wiki/General_relativity
 ```
 
 > `SSH`: Everyone experiences their own explanatory model as true

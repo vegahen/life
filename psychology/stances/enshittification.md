@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Enshittification
+urls: https://en.wikipedia.org/wiki/Enshittification
 ```
 
 [This](/media/shorts/enshittificator.md) is an unethical tactic used by late-stage capitalists because it [makes humans suffer](/psychology/values/value-2.md).

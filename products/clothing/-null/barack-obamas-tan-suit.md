@@ -2,7 +2,7 @@
 
 ```yaml
 type: clothing
-url: https://en.wikipedia.org/wiki/Barack_Obama_tan_suit_controversy
+urls: https://en.wikipedia.org/wiki/Barack_Obama_tan_suit_controversy
 ```
 
 This Wikipedia article is actually very close to my heart, I discovered it while dealing with my concussion headaches and it was the first time since I hit my head that Wikipedia gave me cognitive dissonance; why does it exist, really?

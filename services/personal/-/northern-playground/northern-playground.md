@@ -4,7 +4,7 @@
 
 ```yaml
 type: clothing
-url: https://www.northernplayground.no
+urls: https://www.northernplayground.no
 ```
 
 When was the last time you went into an [H&M](https://en.wikipedia.org/wiki/H&M) and had a chat with the [CEO](https://en.wikipedia.org/wiki/Daniel_Ervér) about what kind of clothes they like?
@@ -40,7 +40,7 @@ Still, these are the best shirts I have ever seen!
 ```yaml
 type: clothing
 kind: shirt
-url: https://www.northernplayground.no/en/shop/the-canvas-shirt?fit=women
+urls: https://www.northernplayground.no/en/shop/the-canvas-shirt?fit=women
 ```
 
 This is so cool, because it has not been dyed! Why use toxic dyes when the natural color of cotton is so awesome?
@@ -50,7 +50,7 @@ This is so cool, because it has not been dyed! Why use toxic dyes when the natur
 ```yaml
 type: clothing
 kind: shirt
-url: https://www.northernplayground.no/en/shop/the-canvas-shirt?color=Cd3d3d3
+urls: https://www.northernplayground.no/en/shop/the-canvas-shirt?color=Cd3d3d3
 ```
 
 Adrian looks so great in this!
@@ -70,7 +70,7 @@ Still, these are the best outdoor clothes I have ever seen!
 ```yaml
 type: clothing
 kind: jacket
-url: https://www.northernplayground.no/en/shop/the-last-jacket?fit=women&color=C752329
+urls: https://www.northernplayground.no/en/shop/the-last-jacket?fit=women&color=C752329
 ```
 
 Same color as my car!
@@ -80,7 +80,7 @@ Same color as my car!
 ```yaml
 type: clothing
 kind: pants
-url: https://www.northernplayground.no/en/shop/the-last-pants?fit=men&color=C567c6c
+urls: https://www.northernplayground.no/en/shop/the-last-pants?fit=men&color=C567c6c
 ```
 
 I can't wait to play in the snow with these!
@@ -90,7 +90,7 @@ I can't wait to play in the snow with these!
 ```yaml
 type: clothing
 kind: jacket
-url: https://www.northernplayground.no/en/shop/the-anorak
+urls: https://www.northernplayground.no/en/shop/the-anorak
 ```
 
 They used to make this one in white, and I need it in white so that it can match the rest of my wardrobe. I hope they can afford to produce some more colors and make Anorak great again soon, that would be great!

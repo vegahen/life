@@ -2,9 +2,9 @@
 
 ```yaml
 - type: source
-  url: https://en.wikipedia.org/wiki/Signal_(software)
+  urls: https://en.wikipedia.org/wiki/Signal_(software)
 - type: repository
-  url: https://github.com/signalapp
+  urls: https://github.com/signalapp
 ```
 
 'Nuff said.

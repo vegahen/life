@@ -2,7 +2,7 @@
 
 ```yaml
 type: identifier
-url: https://www.imdb.com/title/tt33764258
+urls: https://www.imdb.com/title/tt33764258
 ```
 
 This guy makes some great movies.

@@ -10,7 +10,7 @@ This is obviously not true; I think the politicians need to watch some more tv.
 
 ```yaml
 type: reference
-url: https://www.imdb.com/title/tt3638584
+urls: https://www.imdb.com/title/tt3638584
 episode: 1
 timestamp: 00:22:42
 ```

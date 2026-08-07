@@ -2,7 +2,7 @@
 
 ```yaml
 type: technology
-url: https://github.com
+urls: https://github.com
 ```
 
 ...

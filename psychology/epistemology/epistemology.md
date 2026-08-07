@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Epistemology
+urls: https://en.wikipedia.org/wiki/Epistemology
 ```
 
 Unfortunately, epistemology is an unsolved problem that epistemologists like to fiercely disagree on.
@@ -20,7 +20,7 @@ type: epistemology
 id: objective-epistemology
 name: critical-rationalism
 kind: empiricism
-url: https://en.wikipedia.org/wiki/Critical_rationalism
+urls: https://en.wikipedia.org/wiki/Critical_rationalism
 ```
 
 This is applied to scientific hypotheses, where [natural science](https://en.wikipedia.org/wiki/Natural_science) provides the entry point.
@@ -40,7 +40,7 @@ type: epistemology
 id: subjective-epistemology
 name: david-hume
 kind: empiricism
-url: https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature
+urls: https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature
 ```
 
 This is applied to subjective scientific hypotheses, where [explanatory models](/psychology/theories/explanatory-models.md) provide the entry point.

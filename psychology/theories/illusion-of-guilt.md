@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Guilt_(emotion)
+urls: https://en.wikipedia.org/wiki/Guilt_(emotion)
 ```
 
 > `SSH`: Sometimes we believe that someone is guilty when we really just don't understand them

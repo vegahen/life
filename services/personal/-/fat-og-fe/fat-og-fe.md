@@ -2,7 +2,7 @@
 
 ```yaml
 type: specialty
-url: https://www.fatogfe.no
+urls: https://www.fatogfe.no
 ```
 
 Thea is an amazing person who has saved me a lot of time. She has done a lot of research on the great products for her store so that I didn't have to.

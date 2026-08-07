@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url:
+urls:
 - https://en.wikipedia.org/wiki/George_W._Bush
 - https://en.wikipedia.org/wiki/Bushism
 ```

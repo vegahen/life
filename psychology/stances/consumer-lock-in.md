@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Vendor_lock-in
+urls: https://en.wikipedia.org/wiki/Vendor_lock-in
 ```
 
 Consumer lock-in is an unethical tactic used by late-stage capitalists because it hinders competition.

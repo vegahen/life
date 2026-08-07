@@ -2,7 +2,7 @@
 
 ```yaml
 type: identifier
-url: https://www.imdb.com/title/tt0069733
+urls: https://www.imdb.com/title/tt0069733
 ```
 
 ...

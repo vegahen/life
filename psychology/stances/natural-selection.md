@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Decision-making
+urls: https://en.wikipedia.org/wiki/Decision-making
 ```
 
 The natural selection of ideas is an unbreakable law of nature. An idea that does not respect natural selection is bound to fail, because people will always choose a better solution to their problems whenever they can.

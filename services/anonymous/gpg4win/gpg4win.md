@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url:
+urls:
 - https://en.wikipedia.org/wiki/Gpg4win
 - https://docs.github.com/en/authentication/managing-commit-signature-verification
 ```

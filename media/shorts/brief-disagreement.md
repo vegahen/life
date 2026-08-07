@@ -1,12 +1,14 @@
 # A Brief Disagreement (2022)
 
+*Copyright (c) 2026 vegahen*
+
 [YouTube mirror: Steve Cutts](https://youtu.be/9x7FGbW3IVc)
 
 ```yaml
 - type: identifier
-  url: https://www.imdb.com/title/tt24851494
+  urls: https://www.imdb.com/title/tt24851494
 - type: source
-  url: https://www.stevecutts.com
+  urls: https://www.stevecutts.com
 ```
 
 I'm not actually sure what this is about, what do you think?

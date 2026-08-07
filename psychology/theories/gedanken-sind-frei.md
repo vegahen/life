@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Die_Gedanken_sind_frei
+urls: https://en.wikipedia.org/wiki/Die_Gedanken_sind_frei
 ```
 
 > `SSH`: Thoughts are free
@@ -15,7 +15,7 @@ This is the most important song ever written; without it, the [epistemologists](
 
 ```yaml
 type: reference
-url: https://www.imdb.com/title/tt16385928
+urls: https://www.imdb.com/title/tt16385928
 season: 1
 episode: 1
 timestamp: 00:00:00

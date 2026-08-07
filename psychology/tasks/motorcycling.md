@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Motorcycling
+urls: https://en.wikipedia.org/wiki/Motorcycling
 ```
 
 One of my closest near-death experiences was when I almost shared my fate with [T. E. Lawrence](https://en.wikipedia.org/wiki/Lawrence_of_Arabia_(film)) as I encountered some gravel in the middle of a turn.

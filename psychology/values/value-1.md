@@ -5,7 +5,7 @@ type: value
 id: value-1
 name: human-life
 kind: core-value
-url:
+urls:
 - https://en.wikipedia.org/wiki/Human
 - https://en.wikipedia.org/wiki/Intrinsic_value_(ethics)
 ```

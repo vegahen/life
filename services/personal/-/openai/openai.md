@@ -2,9 +2,9 @@
 
 ```yaml
 - type: source
-  url: https://en.wikipedia.org/wiki/OpenAI
+  urls: https://en.wikipedia.org/wiki/OpenAI
 - type: repository
-  url: what-the-fuck-?
+  urls: what-the-fuck-?
 ```
 
 OpenAI is the free and open-source implementation of AI.

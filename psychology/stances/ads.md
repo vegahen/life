@@ -2,7 +2,7 @@
 
 ```yaml
 type: source
-url: https://en.wikipedia.org/wiki/Advertising
+urls: https://en.wikipedia.org/wiki/Advertising
 ```
 
 Ads are an unethical tactic used by [late-stage capitalists](/psychology/stances/late-stage-capitalism.md) because they inhibit the [natural selection](/psychology/stances/natural-selection.md) of great ideas.
