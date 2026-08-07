@@ -1,6 +1,6 @@
 # My Stance on Doing Whatever You Want
 
-[Humans](/media/tv-mini-series/ascent-of-man.md) are built to [survive](/psychology/values/value-1.md). In order to survive, the brain is built to [solve problems perfectly](/experiences/people/-/tweets/richest-man-in-the-world.md). In order to solve problems perfectly, we need [passion](https://en.wikipedia.org/wiki/David_Hume).
+[Humans](/media/tv-mini-series/ascent-of-man.md) are built to [survive](/psychology/values/value-1.md). In order to survive, the brain is built to [solve problems perfectly](/people/-/tweets/richest-man-in-the-world.md). In order to solve problems perfectly, we need [passion](https://en.wikipedia.org/wiki/David_Hume).
 
 Passion will always ensure that humans do whatever they need to survive. If you do not believe me, you should ask [Viktor](https://en.wikipedia.org/wiki/Man's_Search_for_Meaning), who correctly identified that [tasks](/psychology/tasks/friendship.md), [empathy](https://en.wikipedia.org/wiki/Empathy), and [understanding](/psychology/theories/explanatory-models.md) are the most important things in life.
 

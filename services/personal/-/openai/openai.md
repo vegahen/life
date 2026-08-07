@@ -39,7 +39,7 @@ Let me just quote my father, he said this half an hour ago when commenting to my
 
 Ironic, I was hoping the mice would stop running soon.
 
-Anyways, I don't think I can type any faster than I already am. If you are interested in comparing the slops per minute of my content, which is the coherent [SI unit](https://en.wikipedia.org/wiki/International_System_of_Units) for this scenario, you should check out some more of OpenAI's dissonant [propaganda](/experiences/people/-/prompts/cognitive-dissonance/cognitive-dissonance.md).
+Anyways, I don't think I can type any faster than I already am. If you are interested in comparing the slops per minute of my content, which is the coherent [SI unit](https://en.wikipedia.org/wiki/International_System_of_Units) for this scenario, you should check out some more of OpenAI's dissonant [propaganda](/people/-/prompts/cognitive-dissonance/cognitive-dissonance.md).
 
 I'm not even on salvia right now, so I guess Erik indoctrinated me well in the appropriate culture without the need for recreational psychosis.
 

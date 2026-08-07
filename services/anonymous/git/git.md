@@ -7,4 +7,4 @@
   urls: https://git.kernel.org/pub/scm/git/git.git
 ```
 
-> git - the [perfect](/experiences/people/-/quotes/richest-man-in-the-world.md) content tracker
+> git - the [perfect](/people/-/tweets/richest-man-in-the-world.md) content tracker
