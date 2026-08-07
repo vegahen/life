@@ -1,5 +1,7 @@
 # A Brief Disagreement (2022)
 
+[YouTube mirror: Steve Cutts](https://youtu.be/9x7FGbW3IVc)
+
 ```yaml
 - type: identifier
   url: https://www.imdb.com/title/tt24851494

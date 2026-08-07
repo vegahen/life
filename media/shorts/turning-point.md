@@ -1,5 +1,7 @@
 # The Turning Point (2020)
 
+[YouTube mirror: Steve Cutts](https://youtu.be/p7LDk4D3Q3U)
+
 ```yaml
 - type: identifier
   url: https://www.imdb.com/title/tt8866842
