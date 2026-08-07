@@ -15,7 +15,7 @@ Like Karoline, I must also start asking questions now.
 
 ### [To Drink or Not to Drink](/democracy/2026/2026-08/drink-or-not-to-drink.md)
 
-![Reddit](/people/-/some-unethical/source/reddit.png)
+![Reddit](/people/-/unethical/reddit/source/reddit.png)
 
 ### USW-Flex suddenly will not draw power from US-8-150W
 
@@ -31,4 +31,4 @@ Actually, Reddit is starting to make me feel like
 
 > `SSH`: I can't even discuss my passions on Reddit because Ubiquiti doesn't like my setup or something
 
-![Reddit](/people/-/some-unethical/source/reddit2.png)
+![Reddit](/people/-/unethical/reddit/source/reddit2.png)
