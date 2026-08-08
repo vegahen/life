@@ -1,5 +1,7 @@
 # VLC
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 - type: source
   urls: https://en.wikipedia.org/wiki/VLC_media_player

@@ -1,5 +1,7 @@
 # The Illusion of Trauma
 
+*Copyright (c) 2026 vegahen*
+
 > `SSH`: Sometimes we believe that someone is hurting us when they really just wanted to help
 
 ## Versions

@@ -1,5 +1,7 @@
 # My Stance on Details
 
+*Copyright (c) 2026 vegahen*
+
 Details should be gathered until you find an explanatory model you like that fits with all your details. Afterwards, you may stop wasting your time with details if you want and focus on living your life instead.
 
 If you find yourself wondering whether your model is correct, you may keep gathering details if you want.

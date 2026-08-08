@@ -1,5 +1,7 @@
 # The Curtains Were Fucking Blue
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: source
 urls: https://bghilton.com/2024/10/the-curtains-were-blue

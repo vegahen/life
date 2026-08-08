@@ -1,5 +1,7 @@
 # FATogFE
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: specialty
 urls: https://www.fatogfe.no

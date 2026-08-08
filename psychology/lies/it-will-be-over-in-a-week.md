@@ -1,5 +1,7 @@
 # It Will Be Over in a Week
 
+*Copyright (c) 2026 vegahen*
+
 > `SSH`: When you start a war, it will be a swift victory
 
 This is obviously not true; I think the politicians need to watch some more tv.

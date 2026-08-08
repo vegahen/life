@@ -1,5 +1,7 @@
 # My Stance on Great Ideas
 
+*Copyright (c) 2026 vegahen*
+
 Great ideas are characterized by their resistance to competition. If you truly have the best idea, your competitors are destined to fail.
 
 If you feel the need to buy a competitor, you are admitting to the world that you did not have the best idea.

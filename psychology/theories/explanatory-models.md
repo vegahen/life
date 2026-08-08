@@ -1,5 +1,7 @@
 # Explanatory Models
 
+*Copyright (c) 2026 vegahen*
+
 > `SSH`: The brain creates explanatory models using empathy as the positive feedback loop and trauma as the negative feedback loop
 
 ## Feedback Loops

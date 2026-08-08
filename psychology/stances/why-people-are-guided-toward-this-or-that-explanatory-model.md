@@ -1,5 +1,7 @@
 # My Stance on Why People Are Guided Toward This or That Explanatory Model
 
+*Copyright (c) 2026 vegahen*
+
 As a child, you make up your mind about a couple of core values, such as
 
 > `SSH`: I like my country

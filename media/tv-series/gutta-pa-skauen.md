@@ -1,5 +1,7 @@
 # Gutta på skauen (2022)
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 - type: identifier
   urls: https://www.imdb.com/title/tt16385928

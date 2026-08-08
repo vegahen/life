@@ -1,5 +1,7 @@
 # The General Theory of Relativity
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: inspiration
 urls: https://en.wikipedia.org/wiki/General_relativity

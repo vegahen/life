@@ -1,5 +1,7 @@
 # We Do Not Speak His Name
 
+*Copyright (c) 2026 -, vegahen*
+
 **DuckDuckGo**
 
 > the world's most famous democratically elected politician

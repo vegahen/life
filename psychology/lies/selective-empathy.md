@@ -1,5 +1,7 @@
 # Selective Empathy
 
+*Copyright (c) 2026 vegahen*
+
 > `SSH`: You should not feel empathy with everyone
 
 This is a lie.

@@ -1,5 +1,7 @@
 # Barack Obamas Tan Suit
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: clothing
 urls: https://en.wikipedia.org/wiki/Barack_Obama_tan_suit_controversy

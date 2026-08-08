@@ -1,5 +1,7 @@
 # Revenge
 
+*Copyright (c) 2026 vegahen*
+
 That revenge is a good idea has been disproved so many times that I don't even want to formally state it as a subjective scientific hypothesis in fear that someone should happen to read it out of context or misunderestimate the magnitude of disproof.
 
 ## Versions

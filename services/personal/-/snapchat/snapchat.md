@@ -1,5 +1,7 @@
 # Snapchat
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: source
 urls: https://en.wiktionary.org/wiki/pick_your_poison

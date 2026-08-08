@@ -1,5 +1,7 @@
 # UXA - Thomas Seltzers Amerika (2020)
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 - type: identifier
   urls: https://www.imdb.com/title/tt13192836

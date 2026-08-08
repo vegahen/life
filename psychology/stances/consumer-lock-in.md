@@ -1,5 +1,7 @@
 # My Stance on Consumer Lock-In
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: source
 urls: https://en.wikipedia.org/wiki/Vendor_lock-in

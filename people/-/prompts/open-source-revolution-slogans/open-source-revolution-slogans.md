@@ -1,5 +1,7 @@
 # null
 
+*Copyright (c) 2026 -, vegahen*
+
 > I want to create a pun on one of Adolf Hitler's campaign slogans. Using the outlook "Man kann ja im Herzen stets lachen und scherzen" I will create a philosophy that provides a coherent alternative to the mainstream media narratives of today, which I feel are actually driving us further into the paranoid delusions of the 20s instead of helping society progress.
 
 The phrase you referenced, *"Man kann ja im Herzen stets lachen und scherzen"* ("One can always laugh and joke in one's heart"), is a line from an old German folk song and operetta tradition rather than a known historical campaign slogan from that specific political figure.

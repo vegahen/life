@@ -1,5 +1,7 @@
 # The Tasks of Sex
 
+*Copyright (c) 2026 vegahen*
+
 If you want to have sex with someone, it is your task to read signals in such a way that you are absolutely certain you will not commit sexual assault.
 
 If you fail at your tasks, you might go to prison. So please take your tasks seriously.

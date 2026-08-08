@@ -1,5 +1,7 @@
 # My Stance on Free and Open-Source
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: source
 urls: https://en.wikipedia.org/wiki/Free_and_open-source_software

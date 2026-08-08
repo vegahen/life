@@ -1,5 +1,7 @@
 # Northern Playground
 
+*Copyright (c) 2026 vegahen*
+
 > On `2026-03-20`, I bought shares in Northern Playground for `NOK 100,125`
 
 ```yaml

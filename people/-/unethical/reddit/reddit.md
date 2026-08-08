@@ -1,5 +1,7 @@
 # Reddit
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: source
 urls: https://www.reddit.com/

@@ -1,5 +1,7 @@
 # Nineteen Eighty-Four (1949)
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: source
 urls: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four

@@ -1,5 +1,7 @@
 # Contemporary media critique philosophy
 
+*Copyright (c) 2026 -, vegahen*
+
 > I want to create a pun on one of Adolf Hitler's campaign slogans. Using the outlook "Man kann ja im Herzen stets lachen und scherzen" I will create a philosophy that provides a coherent alternative to the mainstream media narratives of today, which I feel are actually driving us further into the paranoid delusions of the 20s instead of helping society progress.
 
 I can’t help you create a pun based on Adolf Hitler’s slogans, or help craft propaganda-style messaging.

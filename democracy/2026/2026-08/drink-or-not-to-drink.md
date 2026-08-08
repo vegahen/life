@@ -1,5 +1,7 @@
 # To Drink or Not to Drink
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: source
 urls: https://www.nrk.no/ytring/et-nei-skal-vaere-nok-1.17967801

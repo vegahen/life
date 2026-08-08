@@ -1,5 +1,7 @@
 # Buy Me a Coffee
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: technology
 urls: https://buymeacoffee.com

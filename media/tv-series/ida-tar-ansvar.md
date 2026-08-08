@@ -1,5 +1,7 @@
 # Ida tar ansvar (2022)
 
+*Copyright (c) 2026 vegahen*
+
 [NRK mirror](https://tv.nrk.no/serie/ida-tar-ansvar) | [YouTube mirror: Viaplay Sverige](https://youtu.be/OTxqQOa7TO0)
 
 ```yaml
