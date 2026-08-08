@@ -11,7 +11,7 @@
 
 I support The Donald because I would also like to make America great again for the people I learned about through Thomas' show. [Trump derangement syndrome](https://en.wikipedia.org/wiki/Trump_derangement_syndrome) is a great example of how the Ministry of Truth tries to manipulate the masses into believing that the unjust hate Donald receives is deserved.
 
-What I would like The Donald to know, however, is that if you want to achieve something for people who live within the boundaries of a different country, it is best to get a [tourist visa first](https://www.youtube.com/watch?v=_UmUMNAcqec), like the rest of us are doing. As a politician, you do actually have to set boundaries for other people; but you should not interfere with other people's boundaries within the boundaries of another country. Such interference is called [war](/media/shorts/brief-disagreement.md). But sadly, as The Donald already knows, war is sometimes necessary.
+What I would like The Donald to know, however, is that if you want to achieve something for people who live within the boundaries of a different country, it is best to get a tourist visa first, [like the rest of us](https://www.youtube.com/watch?v=_UmUMNAcqec) are doing. As a politician, you do actually have to set boundaries for other people; but you should not interfere with other people's boundaries within the boundaries of another country. Such interference is called [war](/media/shorts/brief-disagreement.md). But sadly, as The Donald already knows, war is sometimes necessary.
 
 Getting a visa is probably quite simple when you're the President of the United States, however; I don't know anything about that, but it might speed up the process a bit and make it easier to avoid a war.
 
