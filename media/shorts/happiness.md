@@ -2,7 +2,11 @@
 
 *Copyright (c) 2026 vegahen*
 
-[Vimeo mirror: Steve Cutts](https://vimeo.com/244405542) | [YouTube mirror: Steve Cutts](https://youtu.be/e9dZQelULDk)
+[IMDb](https://www.imdb.com/title/tt7704920) |
+[Wikipedia](https://en.wikipedia.org/wiki/Steve_Cutts) |
+[Website](https://www.stevecutts.com) |
+[Vimeo mirror: Steve Cutts](https://vimeo.com/244405542) |
+[YouTube mirror: Steve Cutts](https://youtu.be/e9dZQelULDk)
 
 ```yaml
 - type: identifier

@@ -2,6 +2,10 @@
 
 *Copyright (c) 2026 vegahen*
 
+[IMDb](https://www.imdb.com/title/tt16385928) |
+[Wikipedia](https://en.wikipedia.org/wiki/Norwegian_resistance_movement) |
+[NRK TV](https://tv.nrk.no/serie/gutta-paa-skauen)
+
 ```yaml
 - type: identifier
   urls: https://www.imdb.com/title/tt16385928

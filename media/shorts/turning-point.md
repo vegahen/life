@@ -2,6 +2,9 @@
 
 *Copyright (c) 2026 vegahen*
 
+[IMDb](https://www.imdb.com/title/tt8866842) |
+[Wikipedia](https://en.wikipedia.org/wiki/Steve_Cutts) |
+[Website](https://www.stevecutts.com) |
 [YouTube mirror: Steve Cutts](https://youtu.be/p7LDk4D3Q3U)
 
 ```yaml

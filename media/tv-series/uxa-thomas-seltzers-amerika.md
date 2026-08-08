@@ -2,6 +2,10 @@
 
 *Copyright (c) 2026 vegahen*
 
+[IMDb](https://www.imdb.com/title/tt13192836) |
+[Wikipedia](https://en.wikipedia.org/wiki/Thomas_Seltzer_(musician)) |
+[NRK TV](https://tv.nrk.no/serie/uxa-thomas-seltzers-amerika)
+
 ```yaml
 - type: identifier
   urls: https://www.imdb.com/title/tt13192836
@@ -26,7 +30,7 @@ timestamp: 8:39
 
 [YouTube Mirror: DOCS HISTORY](https://youtu.be/y8IXBjEf_rg?list=PLB_1iW8z6jShaqh05WGRhGPXRDxqq9Z6_&t=519)
 
-[Another example](/media/tv-mini-series/apocalypse-la-1ere-guerre-mondiale.md) can be seen with how [Erich](https://en.wikipedia.org/wiki/Erich_Ludendorff) correctly identified that he should transport [Vladimir](https://en.wikipedia.org/wiki/Vladimir_Lenin) from his exile in Switzerland back into Russia, in order to settle matters on the [Eastern Front](https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)). Once Lenin started speaking, the [October revolution](https://en.wikipedia.org/wiki/October_Revolution) was inevitable, and World War I ended for the Russians.
+Another example can be seen with how [Erich](https://en.wikipedia.org/wiki/Erich_Ludendorff) correctly identified that he should transport [Vladimir](https://en.wikipedia.org/wiki/Vladimir_Lenin) from his exile in Switzerland back into Russia, in order to settle matters on the [Eastern Front](https://en.wikipedia.org/wiki/Eastern_Front_(World_War_I)). Once Lenin started speaking, the [October revolution](https://en.wikipedia.org/wiki/October_Revolution) was inevitable, and World War I ended for the Russians.
 
 But no matter how great your ideas are, it is always up to the people who listen to decide if they like it. So the people who listen should think closely about the ideas that have been shared.
 

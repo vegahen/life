@@ -2,7 +2,10 @@
 
 *Copyright (c) 2026 vegahen*
 
-[NRK mirror](https://tv.nrk.no/serie/ida-tar-ansvar) | [YouTube mirror: Viaplay Sverige](https://youtu.be/OTxqQOa7TO0)
+[IMDb](https://www.imdb.com/title/tt15290820) |
+[Wikipedia](https://no.wikipedia.org/wiki/Kjersti_Halvorsen) |
+[NRK TV](https://tv.nrk.no/serie/ida-tar-ansvar) |
+[YouTube Mirror: Viaplay Sverige - E1](https://youtu.be/OTxqQOa7TO0)
 
 ```yaml
 type: identifier

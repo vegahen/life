@@ -2,6 +2,9 @@
 
 *Copyright (c) 2026 vegahen*
 
+[IMDb](https://www.imdb.com/title/tt0804503) |
+[Wikipedia](https://en.wikipedia.org/wiki/Mad_Men)
+
 ```yaml
 type: identifier
 urls: https://www.imdb.com/title/tt0804503
