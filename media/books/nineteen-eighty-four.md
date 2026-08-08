@@ -2,6 +2,8 @@
 
 *Copyright (c) 2026 vegahen*
 
+[Wikipedia](https://en.wikipedia.org/wiki/Nineteen_Eighty-Four)
+
 ```yaml
 type: source
 urls: https://en.wikipedia.org/wiki/Nineteen_Eighty-Four
