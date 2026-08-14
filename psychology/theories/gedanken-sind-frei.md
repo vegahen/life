@@ -23,6 +23,8 @@ episode: 1
 timestamp: 00:00:00
 ```
 
+[NRK TV](https://tv.nrk.no/serie/gutta-paa-skauen/sesong/1/episode/MUHH45000122)
+
 Die Gedanken sind frei.  
 Wer kann sie erraten?  
 Sie fliegen vorbei  

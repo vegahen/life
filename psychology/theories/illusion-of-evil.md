@@ -28,6 +28,8 @@ season: 1
 episode: 3
 ```
 
+[NRK TV](https://tv.nrk.no/serie/gutta-paa-skauen/sesong/1/episode/MUHH45000322)
+
 An episode about an evil man who likes to perform strange dances.
 
 ### [The Green Mile](https://www.imdb.com/title/tt0120689)
