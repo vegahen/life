@@ -3,8 +3,8 @@
 *Copyright (c) 2026 vegahen*
 
 ```yaml
-type: source
-urls: https://en.wikipedia.org/wiki/Die_Gedanken_sind_frei
+sources:
+  urls: https://en.wikipedia.org/wiki/Die_Gedanken_sind_frei
 ```
 
 > `SSH`: Thoughts are free

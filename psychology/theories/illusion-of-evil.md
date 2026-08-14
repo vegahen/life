@@ -3,8 +3,8 @@
 *Copyright (c) 2026 vegahen*
 
 ```yaml
-type: source
-urls: https://en.wikipedia.org/wiki/Evil
+sources:
+  urls: https://en.wikipedia.org/wiki/Evil
 ```
 
 > `SSH`: Sometimes we believe that someone is evil when we really just don't understand them

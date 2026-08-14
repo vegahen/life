@@ -3,8 +3,8 @@
 *Copyright (c) 2026 vegahen*
 
 ```yaml
-type: source
-urls: https://en.wikipedia.org/wiki/Guilt_(emotion)
+sources:
+  urls: https://en.wikipedia.org/wiki/Guilt_(emotion)
 ```
 
 > `SSH`: Sometimes we believe that someone is guilty when we really just don't understand them
