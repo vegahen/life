@@ -26,11 +26,19 @@
 
 ### [Die Gedanken sind frei](/psychology/theories/gedanken-sind-frei.md)
 
+When you believe whatever you want to believe.
+
 ### [Planet Theory](/psychology/theories/planet-theory.md)
+
+When two people believe whatever they want to believe.
 
 ### [The Special Theory of Relativity](/psychology/theories/special-theory-of-relativity.md)
 
+When two philosophers believe whatever they want to believe.
+
 ### [The General Theory of Relativity](/psychology/theories/general-theory-of-relativity.md)
+
+When two people believe that whatever they want to believe is true.
 
 ## Results
 
