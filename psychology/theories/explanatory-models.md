@@ -45,6 +45,10 @@ When two philosophers believe whatever they want to believe.
 
 When two people believe that whatever they want to believe is true.
 
+### [The Theory of Friendship](/psychology/theories/theory-of-friendship.md)
+
+When two people believe that it is a great idea to enjoy life regardless.
+
 ## Results
 
 When you are done creating your own explanatory model of the world, you no longer need to think so much. Your brain is now a decision making machine that spits out answers instantly based on your own interpretation of common sense. It is quite preferable compared with being a neurotic subjective scientist who can never make up their mind about anything because their hypotheses are not falsifiable.
