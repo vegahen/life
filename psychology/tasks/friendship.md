@@ -14,7 +14,7 @@ It is not their task to continue the friendship without your permission. That is
 
 ### Jo Breaks Up With a Friend
 
-Jo was getting increasingly annoyed with [Mark](https://www.northernplayground.no/en/activism/its-over-mark-en)'s behavior, so he decided it was best to end it. This is a great letter which shows how you can implement personal boundaries and provide some feedback in the process.
+Jo was getting increasingly annoyed with [Mark](https://en.wikipedia.org/wiki/Mark_Zuckerberg)'s behavior, so he decided it was [best to end it](https://www.northernplayground.no/en/activism/meta-free). This is a [great letter](https://www.northernplayground.no/en/activism/its-over-mark-en) which shows how you can implement personal boundaries and provide some feedback in the process.
 
 ### Josh Lectures Mark on Subjective Experience
 
