@@ -69,6 +69,6 @@ Since it is impossible to establish scientific truth when dealing with philosoph
 
 > `SSH`: If an idea has the potential to effectively spread using natural selection, it is widely considered ethical
 
-This lets us test the explanatory models up against each other, solving the [disuniqueness problem](https://en.wikipedia.org/wiki/Democracy). [Freedom](/people/george-walker-bush/george-walker-bush.md) of [speech](/psychology/stances/great-ideas.md) is the only requirement. And unless you live in the Unites States of America, money is not speech - communication that is not free and open-source is corruption.
+This lets us test the explanatory models up against each other, solving the [disuniqueness problem](https://en.wikipedia.org/wiki/Democracy). [Freedom](/psychology/stances/natural-selection.md) of [speech](/people/george-walker-bush/george-walker-bush.md) is the only requirement. And unless you live in the Unites States of America, money is not speech - communication that is not free and open-source is corruption.
 
 We should [do our best](/psychology/lies/revenge.md) to [ensure](/psychology/lies/selective-empathy.md) that the most ethical ideas survive natural selection.

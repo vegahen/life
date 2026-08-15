@@ -6,7 +6,7 @@
 
 Passion will always ensure that humans do whatever they need to survive. If you do not believe me, you should ask [Viktor](https://en.wikipedia.org/wiki/Man's_Search_for_Meaning), who correctly identified that [tasks](/psychology/tasks/friendship.md), [empathy](https://en.wikipedia.org/wiki/Empathy), and [understanding](/psychology/theories/explanatory-models.md) are the most important things in life.
 
-[Late-stage capitalism](/psychology/stances/late-stage-capitalism.md) is not compatible with [Life, Liberty and the pursuit of Happiness](https://en.wikipedia.org/wiki/Life,_Liberty_and_the_pursuit_of_Happiness) because late-stage capitalism forces us to do things that make no sense; our daily lives are not linked to our own survival - in some cases, [quite]((/psychology/values/value-2.md)) the [opposite](/media/shorts/turning-point.md).
+[Late-stage capitalism](/psychology/stances/late-stage-capitalism.md) is not compatible with [Life, Liberty and the pursuit of Happiness](https://en.wikipedia.org/wiki/Life,_Liberty_and_the_pursuit_of_Happiness) because late-stage capitalism forces us to do things that make no sense; our daily lives are not linked to our own survival - in some cases, [quite](/psychology/values/value-2.md) the [opposite](/media/shorts/turning-point.md).
 
 They force us to do things that are neither related to great ideas nor passions. It's sort of like kicking your dog five minutes after they bit you to [punish](/psychology/lies/revenge.md) them. The dog concludes that
 
