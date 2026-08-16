@@ -21,7 +21,7 @@ identifier:
 episode: 1
 ```
 
-I tend to think of the period we are in right now as the period leading up to World War I. There were some disagreements between some of the countries in Europe because of things like unethical labor laws and inequality. The elites thought that a war with their neighbors might silence the working class, and bring some sought after economic growth in the process.
+I tend to think of the period we are in right now as the period leading up to World War I. There were some disagreements between some of the countries in Europe because of things like unethical labor laws and inequality. The elites thought that a war with their neighbors might silence the working class, and bring some sought after economic growth in the process. This isn't the pettiest reason I have yet to observe for starting a war, though.
 
 What followed can best be described as a shell shock. It had been a peaceful half-century in Europe, so the younger generations had never experienced the horrors of war before. They showed up at the train stations in good spirits and with flowers in their rifles, like they were heading off on some boy scout picnic and team building session for their country. Everyone knew that it was going to be a [swift victory](/psychology/lies/it-will-be-over-in-a-week.md) for their own country. If only they had been able to talk to their neighbors on [Facebook](/psychology/tasks/friendship.md) - they [should have realized](/psychology/stances/communication.md) that a swift victory for everyone involved is a paradox. On top of that, it was the first great war after the invention of the machine gun. I suggest you go watch some TV now, because I don't want to describe the horror in any more detail than I already have.
 
