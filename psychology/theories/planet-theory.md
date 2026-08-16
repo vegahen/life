@@ -9,4 +9,4 @@ inspiration:
 
 > `SSH`: Everyone lives on a different planet
 
-...
+When you encounter toxic planets, don't settle down; move on until you find a planet that does not consider you toxic.
