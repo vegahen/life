@@ -5,12 +5,12 @@
 [IMDb](https://www.imdb.com/title/tt24851494) |
 [Wikipedia](https://en.wikipedia.org/wiki/Steve_Cutts) |
 [Website](https://www.stevecutts.com) |
-[YouTube mirror: Steve Cutts](https://youtu.be/9x7FGbW3IVc)
+[YouTube](https://youtu.be/9x7FGbW3IVc)
 
 ```yaml
-- type: identifier
-  urls: https://www.imdb.com/title/tt24851494
-- type: source
+identifier:
+  url: https://www.imdb.com/title/tt24851494
+sources:
   urls: https://www.stevecutts.com
 ```
 
