@@ -1,14 +1,14 @@
 # The Master Plan
 
-But wait - why is it necessary to trigger a new economic depression?
+But wait... why is it necessary to trigger a new economic depression?
 
-I don't know that it is actually necessary. But the last time we left the roaring twenties behind, it was. The world had been experiencing cognitive dissonance, because even though technology and business was booming, there wasn't enough bang for their borrowed buck to sustain the unrealistic economic growth rate.
+I don't know that it is, actually. But the last time we left the roaring twenties behind, it was. The world had been experiencing cognitive dissonance, because even though technology and business was booming, there wasn't enough bang for their borrowed buck to sustain the unrealistic economic growth rate.
 
-Whenever I experience cognitive dissonance I feel a bit depressed, so I would argue that we are already in a depression. I think a lot of people will agree with that deep down, but I find that most of them get rid of their depression by ignoring the things that are going on in the world - simply refusing to watch Steve's videos - because they feel that it is not their responsibility to fix those problems. Doing so is called the [tragedy of the commons](/psychology/lies/tragedy-of-the-commons.md), and we need to stop doing that if we want our children to have a planet of their own when they grow up.
+Whenever I experience cognitive dissonance I feel a bit depressed, so I would argue that we are already in a depression. I think a lot of people will agree with me deep down, but I find that most of them get rid of their depression by ignoring the things that are going on in the world - simply refusing to watch Steve's videos - because they feel that it is not their responsibility to fix those problems. Doing so is called the [tragedy of the commons](/psychology/lies/tragedy-of-the-commons.md), and we need to stop doing that if we want our children to have a planet of their own when they grow up.
 
 I find that whenever you are dealing with cognitive dissonance, it is best to catch it as early as possible before your [worldview spirals out of control](/psychology/lies/revenge.md). So when dealing with an economic bubble, I suspect that it is best to pop it as early as possible before the [world spirals out of control](/media/tv-mini-series/apocalypse-la-2eme-guerre-mondiale.md). Have you seen [this movie](/people/-/media/movies/oppenheimer.md) that Christopher made, by the way? Albert has a big reveal at the end that should chill your bones.
 
-We have already started seeing an increase in the number of wars - and the number of democratic countries involved in wars - and the number of wars started by a democratic country - in the past few years, so I believe that some strawberries are becoming ripe for the picking and some particular AI bubble is becoming ripe for the popping.
+We have already started seeing an increase in the number of wars - and the number of democratic countries involved in wars - and the number of wars started by a democratic country - in the past few years, so I believe that [some strawberries are becoming ripe for the picking](/people/-null/tweets/strawberry.md) and some particular AI bubble is becoming ripe for the popping.
 
 ## Versions
 
