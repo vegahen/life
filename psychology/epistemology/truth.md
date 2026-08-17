@@ -37,7 +37,7 @@ is true whenever the [general theory of relativity](/psychology/theories/general
 
 You might be delusional and the sky is actually green though, due to all the alleged greenhouse gases. What if your blue is not the same as my blue? What about [in the middle of the night](/people/-/media/music/songs/back-to-the-future.md)? [When it rains](/people/-/media/music/songs/sail.md)? Or when [the sky is filled with fire and smoke](/people/-/media/music/songs/i-see-fire.md)? A simple sentence like
 
-> The sky is blue
+> `Not a True Story`: The sky is blue
 
 is actually doomed to fail because [epistemology](/psychology/epistemology/epistemology.md) has yet to solve that problem. So let's [listen to Evelyn](https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall) instead and act empathically toward our fellow humans, instead of doing whatever it is you trolls have been up to on the internet during the past couple of decades.
 
@@ -53,7 +53,7 @@ I imagine they might also say ridiculous stuff like
 
 And what about those annoying doctors who like to insist that
 
-> `2 + 2 = 5`
+> `SSH`: `2 + 2 = 5`
 
 because they would rather be acting defensively instead of admitting they were wrong?
 

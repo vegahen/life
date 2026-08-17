@@ -12,3 +12,9 @@ urls:
 I just said that Linus is the [richest man in the world](/people/-/tweets/richest-man-in-the-world.md).
 
 Google told me I was wrong, so I told Google they were wrong. Unlike with friends, though, there is no point in debating that statement with Google.
+
+## Versions
+
+### [Tech Tips](/media/propaganda/building-the-perfect-linux-pc-with-linus-torvalds.md)
+
+I'm sorry, Fake Linus, but I have to agree - there can be only one.

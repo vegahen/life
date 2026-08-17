@@ -4,7 +4,7 @@
 
 > `SSH`: When you start a war, it will be a swift victory
 
-This is obviously not true; I think the politicians need to watch some more tv.
+This is obviously not true; I think the politicians need to watch some more TV.
 
 ## Versions
 

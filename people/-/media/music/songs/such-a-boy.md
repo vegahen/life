@@ -1,0 +1,8 @@
+# Such A Boy
+
+```yaml
+type: identifier
+url: https://open.qobuz.com/track/41718032
+```
+
+Astrid is one of my favorite Taylors.
