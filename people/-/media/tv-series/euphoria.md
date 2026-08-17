@@ -17,7 +17,7 @@ url: https://www.imdb.com/title/tt8772296
 
 > Heh, it's human nature; [we're selfish](/psychology/lies/tragedy-of-the-commons.md)
 
-At least for men, it is; Rue seems to be handling her trauma a lot better than the rational and [vengeful](/psychology/lies/revenge.md) Nazis who are still stuck in their paranoid black-and-white delusions after nearly a hundred years.
+At least for men, it is; Rue seems to be handling her trauma a lot better than the rational and [vengeful](/psychology/lies/revenge.md) Nazis who are still stuck in their [paranoid black-and-white delusions](/psychology/lies/revenge.md) after nearly a hundred years.
 
 I bet it's because Rue is a girl, and girls tend to understand [planet theory](/psychology/theories/planet-theory.md).
 
