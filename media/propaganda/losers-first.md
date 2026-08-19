@@ -1,5 +1,7 @@
 # Losers First!
 
+*Copyright (c) 2026 vegahen*
+
 [Wikipedia](https://en.wikipedia.org/wiki/Explosive_Media)
 
 ```yaml

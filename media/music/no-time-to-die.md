@@ -1,5 +1,7 @@
 # No Time To Die
 
+*Copyright (c) 2026 vegahen*
+
 [Wikipedia](https://en.wikipedia.org/wiki/No_Time_to_Die_(song)) |
 [Qobuz](https://open.qobuz.com/track/87729199)
 

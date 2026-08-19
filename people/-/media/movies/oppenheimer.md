@@ -1,5 +1,7 @@
 # Oppenheimer (2023)
 
+*Copyright (c) 2026 vegahen*
+
 [IMDb](https://www.imdb.com/title/tt15398776) |
 [Wikipedia](https://en.wikipedia.org/wiki/Oppenheimer_(film)) |
 [Stremio](/services/anonymous/stremio/stremio.md)

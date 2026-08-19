@@ -1,5 +1,7 @@
 # Way down We Go
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 identifier:
   url: https://open.qobuz.com/track/31934143

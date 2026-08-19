@@ -1,5 +1,7 @@
 # Propaganda
 
+*Copyright (c) 2026 vegahen*
+
 > `SSH`: Propaganda is lies
 
 That's not true.
@@ -12,7 +14,7 @@ It all becomes a lot clearer if we compare what stories really are in a few diff
 
 | Type        | Name           | Kind    | Context      | Learning Mechanism     | Format                 |
 | ----------- | -------------- | ------- | ------------ | ---------------------- | ---------------------- |
-| Information | Memories       | Stories | Life         | Die Gedanken sind frei | Experience             |
+| Information | Experience     | Stories | Life         | Die Gedanken sind frei | Memories               |
 | Information | Core Values    | Stories | School       | Indoctrination         | Textbooks              |
 | Information | Science        | Stories | University   | Critical Thinking      | Expensive Textbooks    |
 | Information | Common Decency | Stories | Prison       | Brainwashing           | Rehabilitation         |

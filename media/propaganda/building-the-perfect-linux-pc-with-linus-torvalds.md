@@ -1,5 +1,7 @@
 # Building the PERFECT Linux PC with Linus Torvalds
 
+*Copyright (c) 2026 vegahen*
+
 [Wikipedia](https://en.wikipedia.org/wiki/Linus_Media_Group)
 
 ```yaml

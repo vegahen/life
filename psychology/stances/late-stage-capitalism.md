@@ -1,4 +1,4 @@
-# Late-Stage Capitalism
+# My Stance on Late-Stage Capitalism
 
 *Copyright (c) 2026 vegahen*
 

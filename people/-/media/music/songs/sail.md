@@ -1,5 +1,7 @@
 # SAIL
 
+*Copyright (c) 2026 vegahen*
+
 [Wikipedia](https://en.wikipedia.org/wiki/Sail_(song)) |
 [YouTube](https://youtu.be/JaAWdljhD5o)
 

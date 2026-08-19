@@ -1,5 +1,7 @@
 # I See Fire
 
+*Copyright (c) 2026 vegahen*
+
 [Wikipedia](https://en.wikipedia.org/wiki/I_See_Fire) |
 [Qobuz](https://open.qobuz.com/track/59941828)
 

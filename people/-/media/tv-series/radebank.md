@@ -1,5 +1,7 @@
 # Rådebank
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 identifier:
   url: https://www.imdb.com/title/tt11604808

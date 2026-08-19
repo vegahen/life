@@ -1,5 +1,7 @@
 # The Office
 
+*Copyright (c) 2026 vegahen*
+
 [NRK TV](https://tv.nrk.no/serie/the-office)
 
 ```yaml

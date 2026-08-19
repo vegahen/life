@@ -1,5 +1,7 @@
 # The Theory of Friendship
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 sources:
   urls:

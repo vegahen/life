@@ -1,5 +1,7 @@
 # Qobuz
 
+*Copyright (c) 2026 vegahen*
+
 [Wikipedia](https://en.wikipedia.org/wiki/Qobuz) |
 [Website](https://www.qobuz.com)
 

@@ -1,5 +1,7 @@
 # All Too Well (10 Minute Version) (Taylor's Version) (From The Vault)
 
+*Copyright (c) 2026 vegahen*
+
 [Wikipedia](https://en.wikipedia.org/wiki/All_Too_Well) |
 [Qobuz](https://open.qobuz.com/track/138305305) |
 [YouTube](https://youtu.be/tollGa3S0o8)
