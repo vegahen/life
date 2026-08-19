@@ -5,6 +5,8 @@ type: identifier
 url: https://www.imdb.com/title/tt8772296
 ```
 
+Zendaya is so amazing at demonstrating [every single illusion](/psychology/theories/explanatory-models.md).
+
 ## Quotes
 
 ### [The Illusion of Evil](/psychology/theories/illusion-of-evil.md)
