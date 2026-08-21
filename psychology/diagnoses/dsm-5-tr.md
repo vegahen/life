@@ -14,6 +14,6 @@ I hope my defensive doctor is the last person to slap a diagnosis on someone rat
 
 > `SSH`: Psychopathy is the lack of the positive feedback loop for your defensive [explanatory model](/psychology/theories/explanatory-models.md)
 
-I guess I finally managed to prove my knife-fighting friend wrong; unless they also managed to open source the burst of the AI bubble since we ghosted each other - gotta remember to listen to [Jacob](/media/tv-mini-series/ascent-of-man.md), you know...
+I guess I finally managed to prove my knife-fighting friend wrong; unless they also managed to open-source the burst of the AI bubble since we ghosted each other - gotta remember to listen to [Jacob](/media/tv-mini-series/ascent-of-man.md), you know...
 
 We still need to find out whether ParentsAreFuckingStupid or DeoxyribonucleicAcidIsFuckingStupid, though.
