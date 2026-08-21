@@ -4,6 +4,10 @@
 
 I don't have the time to write down my own diagnoses right now. [See if you are able to apply the principles we have learned so far](/psychology/lies/propaganda.md).
 
+## Novelties
+
+I hope my defensive doctor is the last person to slap a diagnosis on someone rather than treating their patients empathically; their diagnosis of me is nevertheless the only instance of such bitch-slapping I am willing to label as empathic - I think my doctor may be the best doctor I have ever met, because how they hell did they know that I was such a great Ludovico technique candidate?
+
 ## Versions
 
 ### [Psychopathy](https://en.wikipedia.org/wiki/Psychopathy)
