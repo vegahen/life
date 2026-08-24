@@ -37,13 +37,17 @@ If you want to learn some more scientific stories, I can recommend [the best sho
 
 ## Versions
 
+### [Bullying](/psychology/diagnoses/bullying.md)
+
+Fool me once, shame on me for not understanding what they really needed.
+
 ### [Losers First](/media/propaganda/losers-first.md)
 
-See if you are able to apply the principles we have learned so far.
+See if you are able to apply the principles we have seen so far.
 
 ## Results
 
-I tried to make some [propaganda of my own](/services/personal/-/openai/openai.md) just for fun. Feel free to let me know what you think. And it would also be super useful if you include the amount of cognitive dissonance you experienced, for research purposes.
+I tried to make some [propaganda of my own](/services/personal/-/openai/openai.md) just for fun. Feel free to let me know what you think. And it would also be super useful if you include the amount of cognitive dissonance you experienced - for research purposes.
 
 ## Discussion
 

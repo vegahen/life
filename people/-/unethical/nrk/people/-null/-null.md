@@ -1,0 +1,5 @@
+# -@nrk
+
+*Copyright (c) 2026 vegahen, -*
+
+I spoke to ...

@@ -1,0 +1,3 @@
+# My Stance on Housing Schemes
+
+Boycott...

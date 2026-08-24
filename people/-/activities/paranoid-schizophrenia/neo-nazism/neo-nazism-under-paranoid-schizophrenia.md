@@ -11,4 +11,4 @@ I have been avoiding NTNU for years since my master's thesis was such a huge fai
 
 ## Novelties
 
-I haven't had the time to read all the research on Paranoid Schizophrenia and Neo-Nazism yet, but I am under the impression that the researchers typically did not suffer from Paranoid Schizophrenia or Neo-Nazism - and most definitely not both at the same time; I think those researchers need to check their privileges - or whatever the wokespeak for people who know nothing about your situation but still insist on interfering with your personal boundaries is.
+I haven't had the time to read all the research on paranoid schizophrenia and neo-Nazism yet, but I am under the impression that the researchers typically did not suffer from paranoid schizophrenia or neo-Nazism - and most definitely not both at the same time; I think those researchers need to check their privilege - or whatever the wokespeak for people who know nothing about your situation but still insist on interfering with your personal boundaries is.

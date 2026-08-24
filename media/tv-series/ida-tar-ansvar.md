@@ -17,3 +17,9 @@ How to make society unsafe by bullying incels.
 This was the first time I saw Elli, and I was absolutely blown away. Are you single, Elli? Asking for an incel friend who wants to get laid.
 
 In all seriousness though, I'm really glad that she shares my empathic worldview and is willing to work so incredibly hard to save the world.
+
+## Versions
+
+... I need to remember to tell the stories about all the people whom I forced (or tried to force) to watch this show with me...
+
+... I think they might have something to do with why the incel crisis has not yet been solved...

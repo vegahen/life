@@ -27,7 +27,7 @@ urls: https://en.wikipedia.org/wiki/Critical_rationalism
 
 This is applied to scientific hypotheses, where [natural science](https://en.wikipedia.org/wiki/Natural_science) provides the entry point.
 
-The important contribution from [Karl Popper](https://en.wikipedia.org/wiki/Karl_Popper) is his [falsifiability criterion](https://en.wikipedia.org/wiki/Falsifiability), which limits the set of scientific hypotheses that are considered useful for explaining our objective reality.
+The important contribution from [Karl](https://en.wikipedia.org/wiki/Karl_Popper) is his [falsifiability criterion](https://en.wikipedia.org/wiki/Falsifiability), which limits the set of scientific hypotheses that are considered useful for explaining our objective reality.
 
 Please refer to my subjective epistemology for hypotheses that do not satisfy Karl's criterion.
 
@@ -47,7 +47,7 @@ urls: https://en.wikipedia.org/wiki/A_Treatise_of_Human_Nature
 
 This is applied to subjective scientific hypotheses, where [explanatory models](/psychology/theories/explanatory-models.md) provide the entry point.
 
-I picked [David Hume](https://en.wikipedia.org/wiki/David_Hume) because whenever I try to reason with people, they tend to treat me like I'm some kind of obnoxious asshole. Whenever I'm passionate, however, they tend to empathize with me.
+I picked [David](https://en.wikipedia.org/wiki/David_Hume) because whenever I try to reason with people, they tend to treat me like I'm some kind of obnoxious asshole. Whenever I'm passionate, however, they tend to empathize with me.
 
 ### My Coherence Hypothesis
 

@@ -4,6 +4,7 @@
 
 [IMDb](https://www.imdb.com/title/tt0069733) |
 [Wikipedia](https://en.wikipedia.org/wiki/The_Ascent_of_Man) |
+[Dailymotion Playlist: Robert Waldren](https://www.dailymotion.com/playlist/x7yuey) |
 [YouTube Mirror: Nate Budzinski - E11 Excerpt (4 min): Knowledge Or Certainty](https://youtu.be/ltjI3BXKBgY?list=PL9GIUnhOjMkbyJHk9yKRbhSBcug3XIbuv) |
 [YouTube Mirror: Kimdino1 - E1](https://youtu.be/CH7SJf8BnBI) |
 [YouTube Mirror: Cosmic clarity](https://youtu.be/EB3rWFOZkAk) |

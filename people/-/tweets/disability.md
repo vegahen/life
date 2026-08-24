@@ -1,0 +1,5 @@
+# Disability
+
+*Copyright (c) 2026 vegahen*
+
+> Luckily we know already that when someone is struggling with severe mental health diagnoses, we should not medicate them but encourage them to pursue some creative dreams instead, like [Ye](https://en.wikipedia.org/wiki/Kanye_West)'re already doing if you're a passionate fucking person (I'm also a big fan of the world's most famous democratically elected politician, by the way, I used to watch all the YouTube videos about him, uh, when I was like fifteen)... oh, but at least we know that the most creative people in the world should not be shamed for their diagnoses... oh, but at least my Norwegian friend who has a superpower they share with Iron Man has enough confidence to feel good about themself when faced with other people because Norway is actually ahead of the curve when it comes to things like that... oh, but at least the sick-leave statistics are improving as we speak... oh... they were even more fucked than before, actually, but I think I can fix that for you, if you just stop ghosting me...

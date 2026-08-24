@@ -4,6 +4,8 @@
 
 > `SSH`: Sometimes we believe that someone is hurting us when they really just wanted to help
 
+Misdirected empathy.
+
 ## Versions
 
 ### [Bushisms](/people/george-walker-bush/george-walker-bush.md)
@@ -19,3 +21,5 @@ I have lost too many friends to this delusion, so my brain learned to stop doing
 I think I figured out why Reddit is the place [incels go to become school shooters](/media/tv-series/ida-tar-ansvar.md).
 
 Maybe we should limit access to social media for kids - they spend almost as much time in school as I do at work, actually.
+
+I'm glad I never ran into [Karianne](https://no.wikipedia.org/wiki/Karianne_Tung) in the office, because [Inga](https://no.wikipedia.org/wiki/Inga_Strümke) just wrote something about her that [made my skin crawl](/media/books/nineteen-eighty-four.md) as much as any other favorite politician.
