@@ -1,5 +1,7 @@
 # Researching Neo-Nazism Using Paranoid Schizophrenia and Paranoid Schizophrenia Using Neo-Nazism
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: source
 urls:

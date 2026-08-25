@@ -1,11 +1,13 @@
-# The Paranoid Schizophrenia Spectrum
+# The Cognitive Dissonance Spectrum
+
+*Copyright (c) 2026 vegahen*
 
 ```yaml
 type: source
 urls: https://en.wikipedia.org/wiki/Schizophrenia
 ```
 
-> `SSH`: Paranoid schizophrenia is a mental health spectrum for [cognitive dissonance](/psychology/theories/explanatory-models.md)
+> `SSH`: Paranoid schizophrenia is the usurper of the [cognitive dissonance](/psychology/diagnoses/numbness.md) throne
 
 ## Versions
 

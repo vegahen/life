@@ -1,4 +1,4 @@
-# Brightsider
+# Brightsider (2022)
 
 *Copyright (c) 2026 vegahen*
 

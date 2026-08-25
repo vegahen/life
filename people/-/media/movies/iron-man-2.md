@@ -1,5 +1,7 @@
 # Iron Man 2 (2010)
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: identifier
 urls: https://www.imdb.com/title/tt1228705

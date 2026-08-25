@@ -1,5 +1,7 @@
 # Public Health Using Paranoid Schizophrenia and Paranoid Schizophrenia Using Public Health
 
+*Copyright (c) 2026 vegahen*
+
 Huh... I was actually so busy raging and breaking Twitter and my media library that I didn't write anything here.
 
 But anyways, in my experience the best way to settle matters between people who are on such completely different planets that they are unable to communicate at all is to [sit them down together in the principal's office](/people/-/experiences/bullying/school/school-under-bullying.md). So I would like to request that

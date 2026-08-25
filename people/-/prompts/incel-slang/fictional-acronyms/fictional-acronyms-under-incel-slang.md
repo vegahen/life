@@ -1,5 +1,7 @@
 # Fictional Acronyms Using Incel Slang and Incel Slang Using Fictional Acronyms 
 
+*Copyright (c) 2026 -, vegahen*
+
 ```yaml
 ...
 model: all-right-then-keep-your-secrets-sundar-i-dont-care-about-details-anymore

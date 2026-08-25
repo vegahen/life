@@ -1,5 +1,7 @@
 # All Quiet on the Western Front (1930)
 
+*Copyright (c) 2026 vegahen*
+
 [YouTube Mirror - Foxhole Features](https://youtu.be/wI5xaum_HlA)
 
 ```yaml

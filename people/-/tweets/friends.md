@@ -1,3 +1,5 @@
 # Friends
 
+*Copyright (c) 2026 vegahen*
+
 > Just to be absolutely clear so that I can fight some privacy battles while we are all still here anyway - I have more than one friend; I have several Ellis, several apartments, several critical rationalists, and several neo-Nazis... my friends who own my apartment are currently stuck thinking about death in Nazi concentration camps (consensually, of course), so defenestration has nothing to do with them because they probably don't even know what the word means... I don't remember what other stupid shit you might try to infer about my friends, but just ask me and I can tell you why you were wrong (I'm thorough, I work with cybersecurity so paranoia is basically an essential qualification) and why you need to fucking leave my fucking friends the fuck alone - I can't set boundaries for other people though, so I guess you are still free to be so stupid as to [find the fuck out](/people/-/experiences/paranoid-schizophrenia/vegahen-over-paranoid-schizophrenia.md), I guess...

@@ -1,4 +1,4 @@
-# Friends
+# Friends (1994)
 
 *Copyright (c) 2026 vegahen*
 

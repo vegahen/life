@@ -1,4 +1,6 @@
-# One Flew Over the Cuckoo's Nest
+# One Flew Over the Cuckoo's Nest (1975)
+
+*Copyright (c) 2026 vegahen*
 
 ```yaml
 type: identifier

@@ -1,5 +1,7 @@
 # Psychopathy Using Childhood Trauma or Childhood Trauma Using Psychopathy
 
+*Copyright (c) 2026 vegahen*
+
 You get the point... help me schedule a date with my best friend
 
 ## Versions

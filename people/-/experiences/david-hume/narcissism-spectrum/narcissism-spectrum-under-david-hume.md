@@ -1,5 +1,7 @@
 # The Narcissism Spectrum Using David Hume and David Hume Using The Narcissism Spectrum
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: source
 urls: https://en.wikipedia.org/wiki/Critical_rationalism

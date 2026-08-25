@@ -1,5 +1,7 @@
 # vegahen/NRK
 
+*Copyright (c) 2026 vegahen*
+
 Did you mean [NRK TV](/services/anonymous/nrk-tv/nrk-tv.md)? I hope you did, because so far the subdomain has been acting ethically even though the domain has not.
 
 ## Versions

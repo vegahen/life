@@ -1,4 +1,6 @@
-# Nuremberg
+# Nuremberg (2025)
+
+*Copyright (c) 2026 vegahen*
 
 ```yaml
 type: identifier

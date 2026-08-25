@@ -1,5 +1,7 @@
 # Design for Dreaming (1956)
 
+*Copyright (c) 2026 vegahen*
+
 [Wikipedia](https://en.wikipedia.org/wiki/Design_for_Dreaming) |
 [IMDb](https://www.imdb.com/title/tt0279772) |
 [YouTube Mirror - Union Films](https://youtu.be/1gKl-mwMyck)

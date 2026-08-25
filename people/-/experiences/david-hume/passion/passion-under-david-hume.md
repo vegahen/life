@@ -1,5 +1,7 @@
 # Passion Using David Hume and David Hume Using Passion
 
+*Copyright (c) 2026 vegahen*
+
 > Phoebe has already answered all of your scientific questions about psychology; perhaps all we needed to fix the sick leave statistics was aromatherapy
 
 This book is my best attempt at aromatherapy. [Karl](https://en.wikipedia.org/wiki/Karl_Popper) would describe it as unscientific, which is true because it does not satisfy [Karl's criterion](/psychology/epistemology/epistemology.md).

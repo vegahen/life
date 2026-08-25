@@ -1,5 +1,7 @@
 # Bullying
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 sources:
   urls: https://en.wikipedia.org/wiki/Bullying

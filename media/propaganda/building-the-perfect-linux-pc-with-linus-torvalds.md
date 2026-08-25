@@ -1,4 +1,4 @@
-# Building the PERFECT Linux PC with Linus Torvalds
+# Building the PERFECT Linux PC with Linus Torvalds (2025)
 
 *Copyright (c) 2026 vegahen*
 

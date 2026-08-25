@@ -1,4 +1,6 @@
-# A Clockwork Orange
+# A Clockwork Orange (1971)
+
+*Copyright (c) 2026 vegahen*
 
 ```yaml
 type: identifier

@@ -1,4 +1,6 @@
-# Malcolm in the Middle
+# Malcolm in the Middle (2000)
+
+*Copyright (c) 2026 vegahen*
 
 ```yaml
 type: identifier

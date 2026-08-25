@@ -1,4 +1,6 @@
-# The Scientist
+# The Scientist (2002)
+
+*Copyright (c) 2026 vegahen*
 
 [YouTube](https://youtu.be/RB-RcX5DS5A)
 

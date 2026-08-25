@@ -1,4 +1,6 @@
-# Take a Walk (Album Version)
+# Take a Walk (Album Version) (2012)
+
+*Copyright (c) 2026 vegahen*
 
 ```yaml
 identifier:

@@ -13,19 +13,19 @@ sources:
 
 ### [Empathy](https://en.wikipedia.org/wiki/Empathy)
 
-| Feeling                                              | Empathy Response | Illusion                                                           | Side Effect                                                                |
-| ---------------------------------------------------- | ---------------- | ------------------------------------------------------------------ | -------------------------------------------------------------------------- |
-| [Happiness](https://en.wikipedia.org/wiki/Happiness) | Adapt            | [Understanding](/psychology/theories/illusion-of-understanding.md) |                                                                            |
-| [Disbelief](https://en.wikipedia.org/wiki/Doubt)     | Reject           | [Trauma](/psychology/theories/illusion-of-trauma.md)               | [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) |
+| Feeling                                              | Response | Doublethink Response |  Feedback Mechanism                         | Illusion                                                           |
+| ---------------------------------------------------- | -------- | -------------------- |  ------------------------------------------ | ------------------------------------------------------------------ |
+| [Happiness](https://en.wikipedia.org/wiki/Happiness) | Adapt    | Resist               |  [Love](https://en.wikipedia.org/wiki/Love) | [Understanding](/psychology/theories/illusion-of-understanding.md) |
+| [Disbelief](https://en.wikipedia.org/wiki/Doubt)     | Reject   | pass                 |  pass                                       | [Trauma](/psychology/theories/illusion-of-trauma.md)               |
 
 ### [Trauma](https://en.wikipedia.org/wiki/Psychological_trauma)
 
-| Feeling                                                                                     | Trauma Response | Illusion                                                                                              | Side Effect                                                                |
-| ------------------------------------------------------------------------------------------- | --------------- | ----------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| [Happiness](https://en.wikipedia.org/wiki/Happiness)                                        | Adapt           | [Understanding](/psychology/theories/illusion-of-understanding.md)                                    |                                                                            |
-| [Pleasure](https://en.wikipedia.org/wiki/Pleasure)                                          | Numb            | [Happiness](/psychology/theories/illusion-of-happiness.md)                                            | [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) |
-| [Anger](https://en.wikipedia.org/wiki/Anger) / [Blame](https://en.wikipedia.org/wiki/Blame) | Flight          | [Evil](/psychology/theories/illusion-of-evil.md) / [Guilt](/psychology/theories/illusion-of-guilt.md) |                                                                            |
-| [Anger](https://en.wikipedia.org/wiki/Anger) / [Blame](https://en.wikipedia.org/wiki/Blame) | Fight           | [Evil](/psychology/theories/illusion-of-evil.md) / [Guilt](/psychology/theories/illusion-of-guilt.md) | [Cognitive dissonance](https://en.wikipedia.org/wiki/Cognitive_dissonance) |
+| Feeling                                              | Response | Doublethink Response | Feedback Mechanism                                                           | Illusion                                                           |
+| ---------------------------------------------------- | -------- | -------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
+| [Happiness](https://en.wikipedia.org/wiki/Happiness) | Adapt    | Resist               | [Cognitive dissonance](/psychology/spectra/congitive-dissonance-spectrum.md) | [Understanding](/psychology/theories/illusion-of-understanding.md) |
+| [Pleasure](https://en.wikipedia.org/wiki/Pleasure)   | Numb     | Accept               | [Cognitive dissonance](/psychology/spectra/congitive-dissonance-spectrum.md) | [Happiness](/psychology/theories/illusion-of-happiness.md)         |
+| [Blame](https://en.wikipedia.org/wiki/Blame)         | Flight   | Avoid                |                                                                              | [Guilt](/psychology/theories/illusion-of-guilt.md)                 |
+| [Anger](https://en.wikipedia.org/wiki/Anger)         | Fight    | Resist               | [Cognitive dissonance](/psychology/spectra/congitive-dissonance-spectrum.md) | [Evil](/psychology/theories/illusion-of-evil.md)                   |
 
 ## Relativity Theories
 

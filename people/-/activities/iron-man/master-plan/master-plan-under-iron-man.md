@@ -1,5 +1,7 @@
 # The Master Plan Using Iron Man and Iron Man Using the Master Plan
 
+*Copyright (c) 2026 vegahen*
+
 [Wikipedia](https://en.wikipedia.org/wiki/Mars)
 
 ```yaml
@@ -7,7 +9,7 @@ sources:
   urls: https://en.wikipedia.org/wiki/Mars
 references:
   sources:
-    urls: https://youtu.be/vXpRRKI6Ztw?list=PLWiMc19-qaA1NhHC29SV8X8E17E-ERjZp
+    urls: https://youtu.be/rk5XuqLrf3U?list=PLWiMc19-qaA3u1ZawZQIKAh0BknPvoK8a
   season: 5
   episode: 3
   timestamp: 00:29:52

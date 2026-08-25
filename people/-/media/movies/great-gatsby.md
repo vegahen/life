@@ -1,5 +1,7 @@
 # The Great Gatsby (2013)
 
+*Copyright (c) 2026 vegahen*
+
 ```yaml
 type: identifier
 urls: https://www.imdb.com/title/tt1343092

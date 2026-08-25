@@ -1,4 +1,6 @@
-# Pandora's Box
+# Pandora's Box (1992)
+
+*Copyright (c) 2026 vegahen*
 
 [YouTube Mirror - HAYDERIA](https://youtu.be/6z1ySirFNP8?list=PLohn1pG9jCPYDdLfFhL6mNhjrIp6SuX8f)
 

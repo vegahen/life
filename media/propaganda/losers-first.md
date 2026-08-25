@@ -1,4 +1,4 @@
-# Losers First!
+# Losers First! (2026)
 
 *Copyright (c) 2026 vegahen*
 

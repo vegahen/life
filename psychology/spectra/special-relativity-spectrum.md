@@ -1,6 +1,8 @@
-# The Narcissism Spectrum
+# The Special Relativity Spectrum
 
-> `SSH`: Narcissism is a mental health spectrum for malfunctioning [planet theory](/psychology/theories/planet-theory.md)
+*Copyright (c) 2026 vegahen*
+
+> `SSH`: Narcissism is the usurper of the [special relativity](/psychology/theories/special-theory-of-relativity.md) throne
 
 Politicians who are less creative than [Taylor](https://en.wikipedia.org/wiki/Taylor_Swift) can go home now.
 
@@ -10,7 +12,11 @@ Politicians who are less creative than [Taylor](https://en.wikipedia.org/wiki/Ta
 
 > Someone who feels the need to protect their planet from other people is hiding something from themself that they [would not like the world to know about](/people/-/media/movies/invention-of-lying.md)
 
-Corporate culture is very defensive.
+Corporate culture defends the throne very well.
+
+### I Can't Think of Anything Clever to Say Right Now - [The Illusion of Understanding](/psychology/theories/illusion-of-understanding.md)
+
+...
 
 ### [Critical Rationalism](/psychology/epistemology/epistemology.md) - [The Illusion of Happiness](/psychology/theories/illusion-of-happiness.md)
 
