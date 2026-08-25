@@ -20,6 +20,6 @@ urls: https://www.imdb.com/title/tt0069733
 
 [Wading in the pond](https://youtu.be/ltjI3BXKBgY?t=163) of your ancestors is the most powerful ode to humanity that I have ever seen; you touched me.
 
-I consider episodes one through thirteen the single most powerful monologue in the history of television. [[1](https://youtu.be/EB3rWFOZkAk)]
+This is the most epic and consequential monologue in all of human history.
 
-Will you watch them with me?
+Will you watch it with me?
