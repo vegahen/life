@@ -28,4 +28,4 @@ When you try to force her to move to your own planet, but all she really wanted 
 
 These are the failed relationships I was referring to - including mine, I was in that exact conversation actually. How could Taylor possibly know? I never dated her.
 
-If you feel that she is acting irrationally, you are free to act defensively and stay put on your rational planet if you don't want to join our empathic society. Just make sure you lead with that on [Tinder](/services/personal/-/tinder/) so you don't waste other people's time.
+If you feel that she is acting irrationally, you are free to act defensively and stay put on your rational planet if you don't want to join our empathic society. Just make sure you lead with that on [Tinder](/services/personal/-/tinder/tinder.md) so you don't waste other people's time.
