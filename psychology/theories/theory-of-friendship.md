@@ -4,9 +4,7 @@
 
 ```yaml
 sources:
-  urls:
-  - https://naob.no/ordbok/irr_1
-  - https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall
+  urls: https://naob.no/ordbok/irr_1
 ```
 
 > `SSH`: There are three types of people in the world: those who are rational, and those who are irrational
@@ -31,6 +29,6 @@ You'll find the rational people inside your own echo chamber. You'll find the ir
 
 I spent most of my life befriending irrational people, and it ruined my life. Now I spend most of my life befriending irrational people instead, and it works perfectly fine because [I don't care about details anymore](/psychology/stances/details.md).
 
-I don't know if Evelyn cared about details, but she was pretty smart nonetheless.
+I don't know if [Evelyn](https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall) cared about details, but she was pretty smart nonetheless.
 
-And it doesn't matter either, because she never had to visit the internet.
+And it doesn't matter either, because she never had to [visit the internet](/psychology/stances/communication.md).

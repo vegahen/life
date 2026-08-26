@@ -41,7 +41,7 @@ You might be delusional and the sky is actually green though, due to all the all
 
 > `Not a True Story`: The sky is blue
 
-is actually doomed to fail because [epistemology](/psychology/epistemology/epistemology.md) has yet to solve that problem. So let's [listen to Evelyn](https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall) instead and act empathically toward our fellow humans, instead of doing whatever it is you trolls have been up to on the internet during the past couple of decades.
+is actually doomed to fail because [epistemology](/psychology/epistemology/epistemology.md) has yet to solve that problem. So let's listen to [Evelyn](https://en.wikipedia.org/wiki/Evelyn_Beatrice_Hall) instead and act empathically toward our fellow humans, instead of doing whatever it is you trolls have been up to on the internet during the past couple of decades.
 
 ## But Wait...
 
@@ -69,4 +69,4 @@ Whenever Barack opens his mouth on TV, he is telling the truth because he is sim
 
 Whenever The Donald opens his mouth on TV, he is telling the truth because he is simply sharing what he himself subjectively observes about the world.
 
-So can you all across the pond please stop yelling at each other and just use your free speech and right to vote in a respectful manner now, like the rest of us are doing? Because the world is growing increasingly worried with all your [Nineteen Eighty-Four](/media/books/nineteen-eighty-four.md) shenanigans.
+So can you all across the pond please [stop yelling at each other](/psychology/diagnoses/anger.md) and just use your free speech and right to vote in a respectful manner now, like the rest of us are doing? Because the world is growing increasingly worried with all your [Nineteen Eighty-Four](/media/books/nineteen-eighty-four.md) shenanigans.

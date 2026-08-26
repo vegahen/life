@@ -1,0 +1,3 @@
+# The Defensive Traits Metaspectrum
+
+Together with the flight response, it is used to avoid [cognitive dissonance](/psychology/spectra/cognitive-dissonance-spectrum.md) caused by the [illusion of guilt](/psychology/theories/illusion-of-guilt.md) or the [illusion of evil](/psychology/theories/illusion-of-evil.md) applied to yourself, since that would violate your own [subjective experience](https://en.wikipedia.org/wiki/Subjective_character_of_experience). Hence you rationalize your actions in a way that violates the [relativity theories](/psychology/theories/explanatory-models.md), leading to [narcissistic traits](/psychology/spectra/special-relativity-spectrum.md).

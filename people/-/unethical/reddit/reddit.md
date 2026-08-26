@@ -65,7 +65,7 @@ I think whoever wrote this needs to do some introspection, because I feel like t
 
 ### wallstreetbets
 
-> As I my divine wisdom and psychic abilities increased at the same pace as my [paranoid-schizophrenic behavior](/people/-/activities/paranoid-schizophrenia/public-health/public-health-under-paranoid-schizophrenia.md), I decided to bless the world with my repository so that we could trigger the AI bubble a couple of months ahead of schedule - presumably because then my defensive doctor would have to give me a hug and admit to me that I was right all along
+> As I my divine wisdom and psychic abilities increased in tandem with my [paranoid-schizophrenic behavior](/people/-/activities/paranoid-schizophrenia/public-health/public-health-under-paranoid-schizophrenia.md), I decided to bless the world with my repository so that we could trigger the AI bubble a couple of months ahead of schedule - presumably because then my defensive doctor would have to give me a hug and admit to me that I was right all along
 
 **Rise Up, Incel Friends of Empathic Paul!**
 

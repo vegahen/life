@@ -14,15 +14,11 @@ Politicians who are less creative than [Taylor](https://en.wikipedia.org/wiki/Ta
 
 Corporate culture defends the throne very well.
 
-### I Can't Think of Anything Clever to Say Right Now - [The Illusion of Understanding](/psychology/theories/illusion-of-understanding.md)
-
-...
-
 ### [Critical Rationalism](/psychology/epistemology/epistemology.md) - [The Illusion of Happiness](/psychology/theories/illusion-of-happiness.md)
 
 > Someone who feels the need to find out what is wrong with their rational planet because they feel cognitive dissonance
 
-Corporate culture is [very rational](/psychology/tasks/friendship.md).
+Corporate culture is very rational.
 
 ### [Main Character Syndrome](https://en.wiktionary.org/wiki/main_character_syndrome) - [The Illusion of Guilt](/psychology/theories/illusion-of-guilt.md)
 
@@ -34,4 +30,6 @@ Corporate culture is very authoritarian.
 
 > Someone who has taught themself to ignore cognitive dissonance on their own planet, hence they never learn anything about personal boundaries
 
-Corporate culture acts a lot like Facebook.
+Corporate culture acts a lot like [Facebook](/psychology/tasks/friendship.md).
+
+Stop writing books as the main character, please... I'm just kidding; I love my defensive doctor - in the [true meaning](/media/books/nineteen-eighty-four.md) of the word as well as the correct meaning of the word this time.
