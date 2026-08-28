@@ -18,6 +18,6 @@ I can agree that
 
 > `SSH`: You should not be a pacifist
 
-because whenever you do that you provide positive feedback to their [explanatory model](/psychology/theories/explanatory-models.md), cementing their potentially dead wrong beliefs even further. Instead, you should provide appropriate feedback to help them further their understanding of the world. Such feedback is called empathic feedback, and you can learn about it from [Deeyah](https://deeyah.com), who likes to befriend nazis.
+because whenever you do that you provide positive feedback to their [explanatory model](/psychology/theories/explanatory-models.md), cementing their potentially dead wrong beliefs even further. Instead, you should provide appropriate feedback to help them further their understanding of the world. Such feedback is called empathic feedback, and you can learn about it from [Deeyah](/people/-/media/movies/white-right-meeting-the-enemy.md), who likes to befriend nazis.
 
 In Norway, we lock the prison cells with an empathic smile and provide mental health services to people who struggle, we don't exact [revenge](/psychology/lies/revenge.md) on them.

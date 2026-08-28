@@ -2,7 +2,7 @@
 
 *Copyright (c) 2026 vegahen*
 
-> `SSH`: They do not understand [their tasks](/psychology/tasks/friendship.md) - ironic, considering many assholes have only one job
+> `SSH`: Someone who does not understand [their tasks](/psychology/tasks/friendship.md) - ironic, considering most assholes have only one job; the solution is incelhood - [refuse to fuck them](/psychology/tasks/sex.md), and they'll [be reading up](https://en.wikipedia.org/wiki/Marius_Borg_Høiby) on [those tasks](/psychology/tasks/motorcycling.md) in no time
 
 I'm just gonna give you a list instead to save myself some [time](/psychology/stances/time.md).
 
