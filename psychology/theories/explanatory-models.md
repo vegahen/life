@@ -16,7 +16,7 @@ sources:
 | Feeling                                              | Position                                                | Response | Doublethink Response |  Feedback Mechanism                                                           | Illusion                                                           |
 | ---------------------------------------------------- | ------------------------------------------------------- | -------- | -------------------- |  ---------------------------------------------------------------------------- | ------------------------------------------------------------------ |
 | [Happiness](https://en.wikipedia.org/wiki/Happiness) | [Empathic](/psychology/diagnoses/empathy.md)            | Adapt    | Irrationalize        |  [Love](https://en.wikipedia.org/wiki/Love)                                   | [Understanding](/psychology/theories/illusion-of-understanding.md) |
-| [Disbelief](https://en.wikipedia.org/wiki/Doubt)     | [Delusion](/psychology/lies/illusion-of-grandeur.md)    | Reject   | pass                 |  [Cognitive dissonance](/psychology/spectra/congitive-dissonance-spectrum.md) | [Trauma](/psychology/theories/illusion-of-trauma.md)               |
+| [Disbelief](https://en.wikipedia.org/wiki/Doubt)     | [Defensive](/psychology/diagnoses/defence.md)           | Reject   | pass                 |  [Cognitive dissonance](/psychology/spectra/congitive-dissonance-spectrum.md) | [Trauma](/psychology/theories/illusion-of-trauma.md)               |
 
 ### [Trauma](https://en.wikipedia.org/wiki/Psychological_trauma)
 
