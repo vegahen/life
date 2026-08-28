@@ -11,7 +11,7 @@ urls: https://en.wikipedia.org/wiki/Paranoid-schizoid_and_depressive_positions
 
 The hardcore paranoid-schizoid position is characterized by its delusional trauma phantasies and resistance to doublethink.
 
-[This is how](/psychology/stances/federation-internationale-de-football-association.md) you turn a planet into a regiment of ghosts - obedient ghosts or tortured ghosts.
+[This is how](/psychology/stances/federation-internationale-de-football-association.md) you turn a planet into a regiment of ghosts - [obedient ghosts or tortured ghosts](https://youtu.be/ltjI3BXKBgY?t=39).
 
 The hardcore paranoid-schizoid trauma phantasies channel doublethink resistance into the [betrayal of the human spirit](/psychology/values/value-1.md) - the [cognitive dissonance](/psychology/spectra/cognitive-dissonance-spectrum.md) is strong enough to kill.
 
