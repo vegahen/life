@@ -11,4 +11,4 @@ type: identifier
 url: https://www.imdb.com/title/tt0279772
 ```
 
-Oooh... [I'll be the talk of the town](/psychology/spectra/narcissism-spectrum.md).
+Oooh... [I'll be the talk of the town](/psychology/spectra/special-relativity-spectrum.md).
