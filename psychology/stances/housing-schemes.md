@@ -10,4 +10,4 @@ But since you all delusional motherfuckers are suffering from the [tragedy of th
 
 You should have thought about when you signed the loan with the bank in the first place. That people are willing to loan money to buy a home is the reason we are stuck in this mess in the first place.
 
-That [late-stage capitalists](/psychology/stances/late-stage-capitalism.md) love manipulating you into giving them all your money is the reason the banks are offering to lend you money in the first place. I would rather use a loan shark in fact - why should I own my own home AND pay rent to the bank when I could instead offload all the financial risk to some greedy [asshole](/psychology/diagnoses/asshole.md).
+That [late-stage capitalists](/psychology/stances/late-stage-capitalism.md) love manipulating you into giving them all your money is the reason the banks are offering to lend you money in the first place. I would rather use a rent shark in fact - why should I own my own home AND pay rent to the bank when I could instead offload all the financial risk to some greedy [asshole](/psychology/diagnoses/asshole.md).
