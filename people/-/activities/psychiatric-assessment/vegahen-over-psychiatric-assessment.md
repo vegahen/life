@@ -27,6 +27,10 @@ Their rejection of my `yes-means-no` sexual assault hypothesis leads me to belie
 
 So far they have given me [Robert](https://en.wikipedia.org/wiki/Robert_H._Jackson) vibes due to the lack of curiousity, but at the same time they have a job to do - I wouldn't really expect them to spend their free time trying understand my whole book, because unlike me, they probably have a life right now. So I still have some hope that this doctor might actually be the [David Maxwell](https://en.wikipedia.org/wiki/David_Maxwell_Fyfe,_1st_Earl_of_Kilmuir) I need in order to cure me of my [delusional revolutionary ideas](/people/-/media/music/songs/bill-i-am/greatest.md).
 
+I just realized that if I get sad when we continue destroying the world and I [blame myself for not being good enough to stop it](/psychology/diagnoses/numbness.md), I am depression-ADHD bipolar. If I become a [nihilist](https://en.wikipedia.org/wiki/Nihilism), accepting that we are going to destroy the world no matter what, I only have ADHD.
+
+If my depression becomes more severe than I have ever experienced before, I could try reaching out to [Greta](https://en.wikipedia.org/wiki/Greta_Thunberg) and ask if she can help me analyze [this song](/people/-/media/music/songs/stayin-alive.md).
+
 **Next Steps**
 
 I think I might want to try to force them to read [propaganda](/psychology/lies/propaganda.md) to see if they are willing to entertain the idea that they have been brainwashed by critical rationalist psychology - which [Karl](https://en.wikipedia.org/wiki/Karl_Popper#Background_to_Popper's_ideas) himself unequivocally dismissed as unscientific, by the way.
