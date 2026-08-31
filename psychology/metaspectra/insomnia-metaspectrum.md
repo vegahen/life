@@ -15,7 +15,7 @@ When [Mark](https://en.wikipedia.org/wiki/Mark_Zuckerberg) doesn't want you to s
 
 | Illusion                                                           | Phases           | Duration |
 | ------------------------------------------------------------------ | ---------------- | -------- |
-| [Understanding](/psychology/theories/illusion-of-understanding.md) | Biphasic         | ...      |
+| [Understanding](/psychology/theories/illusion-of-understanding.md) | ...              | ...      |
 | [Happiness](/psychology/theories/illusion-of-happiness.md)         | Monophasic       | `10h`    |
-| [Guilt](/psychology/theories/illusion-of-guilt.md)                 | Polyphasic       | `3h`     |
+| [Guilt](/psychology/theories/illusion-of-guilt.md)                 | Biphasic         | `3h`     |
 | [Evil](/psychology/theories/illusion-of-evil.md)                   | Polyphasic       | `75min`  |

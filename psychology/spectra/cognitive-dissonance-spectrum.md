@@ -37,6 +37,12 @@ Corporate culture is not very compatible with ADHD.
 
 I'm the craziest guy in The Office, so I haven't [reached any conclusions](/people/-/media/shorts/billie-eilish-hit-me-hard-and-soft-official-trailer2.md) yet about how mania fares in the corporate landscape; I'll let you know as soon as I get fired.
 
+**Delusional Disorder**
+
+[Teddy Daniels](/people/-/media/movies/shutter-island.md) - starting to make sense, I'm not even up here since I can still explain why I am here the same way anyone else would explain it.
+
+But it begs the question of there should be a relation to some form of trauma spectrum, because in both our cases we start finding crazy explanations as a defense mechanism to protect ourselves from trauma.
+
 **Paranoid Schizophrenia**
 
 Never thought a [scientist could become such a great artiste](/people/-/tweets/social-media7.md)... or it could be that I was stuck at the previous level the whole time, and this level actually requires a rational break with reality - not just an epistemological or emotional one.
@@ -51,6 +57,6 @@ Anyway... I keep finding solutions that the [narcissistic critical rationalists]
 
 Luckily we now have all the tools needed to figure out whether someone is actually passionate. My psychiatrist was not, because they doomscroll on Reddit and they felt bad about not having read [Thinking, Fast and Slow](https://en.wikipedia.org/wiki/Thinking,_Fast_and_Slow). Too bad when I asked how they felt about that, they reminded me that they were not allowed to disclose their personal feelings during my therapy sessions. I told them that was okay, because they had answered my question before I even asked it.
 
-It's too bad because I actually happen to know all about how you can think fast and slow at the same time - it's called mania. And you haven't read that fucking book because you didn't want to, which means you didn't have the time because you were too busy looking to solve your depression with Reddit. Having a to-do list for reading books is like having a to-do list for sex - you're missing the fucking point.
+It's too bad because I actually happen to know all about how you can think fast and slow at the same time - it's called mania. And you haven't read that fucking book because you didn't want to, which means you didn't have the time because you were too busy looking to solve your problems with Reddit. Having a to-do list for reading books is like having a to-do list for sex - you're missing the fucking point.
 
 Well what do you know - ragebaiting the critical rationalists has once again provided me with yet another [great solution](/people/-/media/shorts/billie-eilish-hit-me-hard-and-soft-official-trailer.md). I could talk to people who write books - instead of procrastinate books they'll never understand - about it; I know that those people are creative. 

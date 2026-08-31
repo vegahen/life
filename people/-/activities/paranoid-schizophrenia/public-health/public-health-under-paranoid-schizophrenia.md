@@ -11,9 +11,9 @@ But anyways, in my experience the best way to settle matters between people who 
 - My sociologist
 - My psychiatrist
 
-and I sit down in a room together, and they tell my defensive doctor about the [subjective character of experience](https://en.wikipedia.org/wiki/Subjective_character_of_experience). Then my defensive doctor can tell their side of the story of why they kept insisting `2 + 2 = 5` and ignoring the mathematical proof right in front of their eyes while a brain-damaged concussion patient was desperately scrambling to understand what in the deepest cognitive dissonance fuck was wrong with their brain.
+and I sit down in a room together, and they tell my defensive doctor about the [subjective character of experience](https://en.wikipedia.org/wiki/Subjective_character_of_experience). Then my defensive doctor can tell their side of the story of why they kept insisting `2 + 2 = 5` and ignoring the mathematical proof right in front of their eyes while a brain-damaged concussion patient was desperately scrambling to understand what in the deepest cognitive dissonance fuck was wrong with their head. I suggested this to three out of the four people on my list within a week of the actual event. They said that was not actually something they do, and then they continued to desperately try to make my brain sleep for a couple of weeks.
 
-Then we both apologize for being so mean to each other. I would probably start crying if they did that, because feeling that someone is evil for soon-to-be three months straight would be an immense emotional load to be able to dump - it can wreck your mental health and sleep, actually.
+Anyway, then we would both apologize for being so mean to each other. I would probably start crying if they did that, because feeling that someone is evil for soon-to-be three months straight would be an immense emotional load to be able to dump - it can wreck your mental health and sleep, actually.
 
 Too bad doctors can't act like normal human beings and give people who are crying a hug, like [this little kid](https://en.wikipedia.org/wiki/Empathy) knows [all too well](/media/music/all-too-well-10-minute-version-taylors-version-from-the-vault.md) in their heart.
 
